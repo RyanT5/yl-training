@@ -1,0 +1,45 @@
+baseurl         = "https://yl-training.ryanschuller.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Young Leader Training"
+  subtitle    = "Modules to do at home"
+
+  cover       = "background.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = "RyanT5"
+
+  logo = ""
+  orgName = "Braid YL Training Team"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Ryan Schuller"
+  authorAvatar = "ryan.jpeg"
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = "AESLYL"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Modules"
+  url = "/"
+  weight = 200
