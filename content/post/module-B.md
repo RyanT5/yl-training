@@ -9,11 +9,9 @@ authorDescription: ""
 authorAvatar: ""
 ---
 
-No content yet
-
 # Introduction
 
-Read each of the sections below and complete all the activities. Once you reach the end, there is a link to a quiz where you can test your knowledge. The quiz is how we keep track of your progress so you must complete it to have evidence of this module. You will also be asked to upload pictures of your work from the activities so please write things down and keep track of your work.
+Read each of the sections below and complete all the activities. Once you reach the end, there is a link to OSM where you can upload evidence of your work from the activities. OSM is how we keep track of your progress so you must complete it to have evidence of this module. You can either write your work digitally or take a picture of any pieces of paper you use. However you choose, make sure you keep track of your work to get the recognition.
 
 This module will likely take you about an hour and a half.
 
@@ -31,6 +29,8 @@ By the end of this module, you will:
 
 ## What makes leaders effective?
 
+According to the booklet notes for this module, effective leaders do all of the following things:
+
 - generate ideas
 - plan
 - encourage others
@@ -45,26 +45,63 @@ By the end of this module, you will:
 - know their Scouts and understand their strengths and weaknesses
 - take their time
 
+Can you think of any more characteristics to add to the list? Can you think of any examples of people in the real world who display these behaviours?
+
 ## Activity 1
 
-Pitch for president
+Imagine you want to run a campaign to become President of the World. Write a short pitch of what qualifies you for that role. Describe which of the above leadership qualities you think you have and some examples of situations where you have demonstrated them.
 
 ## Styles of leadership
 
+There are many different ways leadership can be expressed. You don't need to have a certain type of personality to be a leader. Find a way that works for you. You may even need to change style to fit different situations. Some examples of different styles include:
+
+- Informal/supportive  
+  Using this style, the young people you are leading may not be aware that you are playing a leadership role. Being there to help and support is a form of leadership.
+
+- Formal/directive  
+  This is a style that you would most associate with leading. It typically involves giving firm and clear instructions.
+
+- Democratic/team-based  
+  This style involves leading a discussion and including everyone in the final decision.
+
+- Passive  
+  This is the subtlest form of leadership. It involves knowing when to let go and when to let your youngsters take the lead. It is used when there is no risk to their safety and gives them the opportunity to make their own decisions.
+
+- Organiser  
+  This is a planning style as much as a leadership style. You take responsibility for getting things organised in such a way that the outcome that you desire is achieved.
+
 ## Activity 2
 
-Match the leadership style
+Read the passage below describing a an evening with a Beaver Colony. Match each of the 8 paragraphs to one of the 5 leadership styles listed above.
+
+*It’s 5:45pm. The Beaver Scouts are arriving and there is a loud buzz of excitement. At school that day, the Beaver Scouts have not been able to go outside to play due to wet weather, so they are full of energy and happy to see each other. ‘Beaver Scouts!’ shouts the leader, ‘It’s time to start. Who is going to lead our opening?’*
+
+*One of the Beaver Scouts volunteers and steps forward. ‘We are Beavers!’ he projects proudly.*
+
+*After the opening, the Beavers play a game. The leader runs the game with the Beaver Scouts making suggestions for actions they can include too. Towards the end of the game, one of the other leaders shows the Lodge Leaders one of the activities they will be doing for the session, making bird feeders by threading cereal and blueberries on a pipe cleaner. It requires a knot at the end and the leader goes through how to do each step.*
+
+*At the end of the game, the Beavers get into their Lodges and start making the bird feeders. The Lodge Leaders help others to make the feeders with the ESYLs and other volunteer leaders checking in on them.*
+
+*Whilst checking in on how they are getting on, one of the leaders spots a disagreement between two of the Beavers over the last berry. As tempers rise, the leader calls both of the Beavers over to have a chat about what is going on.*
+
+*After making the feeders, the Beavers have a discussion about where the best place to hang them would be. They decide on a few locations as a group and venture out in their Lodges to hang them.*
+
+*‘Stop!’ shouts the Section Leader, ‘Look before you cross the road!’*
+
+*Once reaching the trees, the Beavers hang their bird feeders up and head back for the end of the session.*
 
 ## Activity 3
 
-You will need at least one other family member to join you for this acivity, ideally more if they are available. Your job is to lead the team you've formed to build some sort of (temporary) stucture out of household objects. This could be a pillow fort, a bridge between tables or a throne you can sit in. We have intentionally kept this discription vague to ensure everyone can complete this activity regardless of their home situation, use your creativity. Think about leadership techniques you can use to improve your team's perfomance.
+You will need at least one other family member to join you for this activity, ideally more if they are available. Your job is to lead the team you've formed to build some sort of (temporary) structure out of household objects. This could be a pillow fort, a bridge between tables or a tower made of paper. We have intentionally kept this description vague to ensure everyone can complete this activity regardless of their home situation, use your creativity. Think about leadership techniques you can use to improve your team's performance.
 
-Make sure you get permission from a parent/guardian for any items you use that are not yours and remember to think about saftey at all times. When you are finished, take a picture of your team with what you have built.
+Make sure you get permission from a parent/guardian for any items you use that are not yours and remember to think about safety at all times. When you are finished, take a picture of your team with what you have built.
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then complete the quiz linked below. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to fill in the "Module B at home" section there. You need to complete this to be signed off.
 
-Link
+<a href="https://www.onlinescoutmanager.co.uk/main.php">
+ <button type="button" class="go-to-osm">Go to OSM</button>
+</a>
 
 Thank you for taking the time to do training at home, stay safe :)
