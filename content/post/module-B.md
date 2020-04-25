@@ -13,7 +13,7 @@ authorAvatar: ""
 
 Read each of the sections below and complete all the activities. Once you reach the end, there is a link to OSM where you can upload evidence of your work from the activities. OSM is how we keep track of your progress so you must complete it to have evidence of this module. You can either write your work digitally or take a picture of any pieces of paper you use. However you choose, make sure you keep track of your work to get the recognition.
 
-This module will likely take you about an hour and a half.
+This module will take you 45 minutes to an hour to complete.
 
 ## Objectives
 
@@ -72,7 +72,7 @@ There are many different ways leadership can be expressed. You don't need to hav
 
 ## Activity 2
 
-Read the passage below describing a an evening with a Beaver Colony. Match each of the 8 paragraphs to one of the 5 leadership styles listed above.
+Read the passage below describing an evening with a Beaver Colony. Match each of the 8 paragraphs to one of the 5 leadership styles listed above.
 
 *It’s 5:45pm. The Beaver Scouts are arriving and there is a loud buzz of excitement. At school that day, the Beaver Scouts have not been able to go outside to play due to wet weather, so they are full of energy and happy to see each other. ‘Beaver Scouts!’ shouts the leader, ‘It’s time to start. Who is going to lead our opening?’*
 
