@@ -12,13 +12,13 @@ paginate        = 6
   cover       = "background.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-131397022-1"
   customCSS = []
   RSSLink = ""
 
   twitterName = ""
   fbName = ""
-  githubName = "RyanT5"
+  githubName = "RyanT5/yl-training"
 
   logo = ""
   orgName = "Braid YL Training Team"

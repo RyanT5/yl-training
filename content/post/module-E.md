@@ -71,7 +71,7 @@ To run games successfully, preparation is vital. Think about each of the followi
 
 ## Activity 3
 
-By this point in the module, you should have loads of games in mind that you could play with your section. Now you need to take your preparation knowledge and put it to the test. Choose a game and go through the preparation process as if you were going to teach the young people at your section. Then find a family member to play the game with and teach them how to play. Make notes of what you do at each step of preparation and running the game, you will be asked about them later.
+By this point in the module, you should have loads of games in mind that you could play with your section. Now you need to take your preparation knowledge and put it to the test. Choose a game and go through the preparation process as if you were going to run it with the young people at your section. Then find a family member to play the game with and teach them how to play. Make notes of what you do at each step of preparation and running the game, you will be asked about them later.
 
 ## Conclusion
 
