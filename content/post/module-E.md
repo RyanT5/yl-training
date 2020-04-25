@@ -4,6 +4,9 @@ subtitle: "Game on!"
 date: 2020-04-23T16:00:00+01:00
 draft: false
 image: "mod-e-cover.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction

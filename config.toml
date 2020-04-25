@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "Modules to do at home"
 
   cover       = "background.jpg"
-  description = "Here is a description of your site."
+  description = "Modules to do at home"
   metaDescription = ""
   googleAnalytics = "UA-131397022-1"
   customCSS = []
@@ -23,7 +23,7 @@ paginate        = 6
   logo = ""
   orgName = "Braid YL Training Team"
   orgWebsite = ""
-  orgDescription = "Here is a description placeholder for your org"
+  orgDescription = ""
 
   author = "Ryan Schuller"
   authorAvatar = "ryan.jpeg"
