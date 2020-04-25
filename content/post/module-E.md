@@ -11,7 +11,7 @@ authorAvatar: ""
 
 # Introduction
 
-Read each of the sections below and complete all the activities. Once you reach the end, there is a link to a quiz where you can test your knowledge. The quiz is how we keep track of your progress so you must complete it to have evidence of this module. You will also be asked to upload pictures of your work from the activities so please write things down and keep track of your work.
+Read each of the sections below and complete all the activities. Once you reach the end, there is a link to OSM where you can upload evidence of your work from the activities. OSM is how we keep track of your progress so you must complete it to have evidence of this module. You can either write your work digitally or take a picture of any pieces of paper you use. However you choose, make sure you keep track of your work to get the recognition.
 
 This module will likely take you about an hour.
 
@@ -51,8 +51,6 @@ There are many different types of games you can play and it is good to have a va
 
 If you can come up with an original game that is age-appropriate to your section then that is even better and allows you to take a more active role as a YL.
 
-
-
 ## Activity 2
 
 Another important aspect of Scouting is working towards badges. In this activity, you need to look through the list of badges for your section and either match them with games in your list from Activity 1 or come up with other possible games that would fit. Do this for at least 10 badges.
@@ -78,8 +76,10 @@ By this point in the module, you should have loads of games in mind that you cou
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then complete the quiz linked below. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to fill in the programme for this module there. You need to complete this to be signed off.
 
-Link
+<a href="https://www.onlinescoutmanager.co.uk/main.php">
+ <button type="button" class="go-to-osm">Go to OSM</button>
+</a>
 
 Thank you for taking the time to do training at home, stay safe :)
