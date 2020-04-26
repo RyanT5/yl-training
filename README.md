@@ -2,7 +2,7 @@
 
 This is a website to support young leaders to continue training during social distancing. You can see the live site here:
 
-[https://yl-training.ryanschuller.com](https://yl-training.ryanschuller.com)
+[https://youngleadertraining.online](https://youngleadertraining.online)
 
 This content was put togther by the Braid and Pentland YL Training Team.
 
