@@ -47,6 +47,8 @@ According to the booklet notes for this module, effective leaders do all of the 
 
 Can you think of any more characteristics to add to the list? Can you think of any examples of people in the real world who display these behaviours?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18UVXW-x2_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Activity 1
 
 Imagine you want to run a campaign to become President of the World. Write a short pitch of what qualifies you for that role. Describe which of the above leadership qualities you think you have and some examples of situations where you have demonstrated them.
