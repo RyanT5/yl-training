@@ -74,7 +74,9 @@ It is also important to be aware of any allergies, medical needs, faith or cultu
 
 Match the celebrity with their additional need:
 
-![alt text](/modf-celebs.jpg)
+![Celebrities](/modf-celebs.jpg)
+
+![Celebrity additional needs](/modf-addneeds.jpg)
 
 All these celebrities have some form of additional needs, but they have not prevented them from excelling in their respective fields. Just because someone has some form of additional needs, it should not stop them from joining in and pursuing things that they are interested in.
 
@@ -89,3 +91,43 @@ Cubs:
 Scouts: 
 [World](https://www.scouts.org.uk/scouts/awards/world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)
+
+## Additional needs and inclusion
+
+Additional needs and disabilities should not prevent a young person from being able to participate in Scouting. By making reasonable adjustments most young people can access Scouting and develop to their full potential. Most adjustments take the form of adding something to or removing something from the activity. Adjustments could include:
+
+- Altering a games rules to make it no contact
+- Providing one to one support
+- Having one young person read the instructions for another
+- Having different food options available
+
+## Activity 4
+
+Have a look at the following term programme and decide what, if any, adjustments may be needed to overcome the situations below.
+
+| Date        | Activity      | Description           | Venue     | Challenge area   |
+| ------------|---------------|-----------------------|-----------|------------------|
+| 19 Sept     | Harvest festival | Bring in a selection of fruit and <br>vegetables; Colony discusses where <br>food is grown and how it gets to shops | HQ | My World |
+| 26 Sept     | Dinosaur models | Make paper mache models  on wire <br>coat-hanger frames, decorate with <br>poster paint | HQ | My Skills |
+| 3 Oct       | Scavenger hunt | Collect a veriety of leaves and twigs <br>from the woods to compare & spot <br>differences, think about seasons | Woods | My Outdoor |
+| 10 Oct      | Puppet storytelling | Create finger puppets and use them <br>to tell well known stories using <br>puppet theatre | HQ | My Skills |
+| 17 Oct      | Visit a Synagogue | Look at the key features of the <br>building and explore Judaism | Synagogue | My World |
+| 24 Oct      | Making biscuits | Make biscuits and ice them | Kitchen | My Skills |
+
+Scenarios:
+
+1. You have a young person who is on the autism spectrum and will need additional support to understand and follow instructions.
+2. You are planning your camp and a young person who is Jewish and follows a kosher diet will be coming along. The young person will also need time and space to pray during the event.
+3. You have a young person who wears a headscarf in your group. Are there are considerations you need to make to ensure everything is inclusive in the Programme?
+4. You have three young people with glasses in your group.
+5. You have one young person who can’t eat wheat and one young person who has asthma.
+
+## Conclusion
+
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to fill in the "Module F at home" section there. You need to complete this to be signed off.
+
+<a href="https://www.onlinescoutmanager.co.uk/main.php">
+ <button type="button" class="go-to-osm">Go to OSM</button>
+</a>
+
+Thank you for taking the time to do training at home, stay safe :)
