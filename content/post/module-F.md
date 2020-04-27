@@ -30,7 +30,7 @@ By the end of the module, you will be able to:
 
 ## Diversity and inclusion
 
-The concept of diversity encompasses recognising people as individuals, understanding that everybody is unique and that we should respect our individual differences. These differences may include, but are not limited to, age, gender, backgrounds, and abilities and disabilities. Encouraging diversity in Scouting promotes respects for different ideas and perspectives as well as an understanding of differences that can impact on others.
+The concept of diversity encompasses recognising people as individuals, understanding that everybody is unique and that we should respect our individual differences. These differences may include but are not limited to, age, gender, backgrounds, and abilities and disabilities. Encouraging diversity in Scouting promotes respects for different ideas and perspectives as well as an understanding of differences that can impact on others.
 
 When we talk about inclusion in Scouting, we are talking about the act of ensuring that Scouting is open to all and supporting anyone to overcome any barrier to participating in the Scouting programme. As part of being inclusive, we need to ensure that our programme and meeting place is appropriate and that we have considered any additional needs members might have.
 
@@ -68,9 +68,9 @@ However, many additional needs are permanent conditions. These include condition
 
 Some additional needs can fluctuate and may be affected by a range of different factors, such as stress. Additional needs and disabilities should not prevent a young person from being able to participate in Scouting. By making reasonable adjustments (doing things differently or providing additional support), most young people can access Scouting and develop to their full potential.
 
-It is also important to be aware of any allergies, medical needs, faith or cultural needs a young person may have. For example, you may need to cater for vegetarian, Halal and Kosher diets, or a young person who is coeliac or has a nut allergy and ensure that their needs are incorporated into section meetings and camps.
+It is also important to be aware of any allergies, medical needs, faith or cultural needs a young person may have. For example, you may need to cater for vegetarian, Halal and Kosher diets or a young person who is coeliac or has a nut allergy and ensure that their needs are incorporated into section meetings and camps.
 
-## Activity 3
+## Activity 2
 
 Match the celebrity with their additional need:
 
@@ -96,21 +96,21 @@ Scouts:
 
 Additional needs and disabilities should not prevent a young person from being able to participate in Scouting. By making reasonable adjustments most young people can access Scouting and develop to their full potential. Most adjustments take the form of adding something to or removing something from the activity. Adjustments could include:
 
-- Altering a games rules to make it no contact
+- Altering a game's rules to make it no contact
 - Providing one to one support
 - Having one young person read the instructions for another
 - Having different food options available
 
-## Activity 4
+## Activity 3
 
-Have a look at the following term programme and decide what, if any, adjustments may be needed to overcome the situations below.
+Have a look at the following term programme and decide what, if any, adjustments may be needed to overcome the situations below. If you are viewing this on mobile you may need to scroll sideways to see the full table.
 
 | Date        | Activity      | Description           | Venue     | Challenge area   |
 | ------------|---------------|-----------------------|-----------|------------------|
 | 19 Sept     | Harvest festival | Bring in a selection of fruit and <br>vegetables; Colony discusses where <br>food is grown and how it gets to shops | HQ | My World |
 | 26 Sept     | Dinosaur models | Make paper mache models  on wire <br>coat-hanger frames, decorate with <br>poster paint | HQ | My Skills |
-| 3 Oct       | Scavenger hunt | Collect a veriety of leaves and twigs <br>from the woods to compare & spot <br>differences, think about seasons | Woods | My Outdoor |
-| 10 Oct      | Puppet storytelling | Create finger puppets and use them <br>to tell well known stories using <br>puppet theatre | HQ | My Skills |
+| 3 Oct       | Scavenger hunt | Collect a variety of leaves and twigs <br>from the woods to compare & spot <br>differences, think about seasons | Woods | My Outdoor |
+| 10 Oct      | Puppet storytelling | Create finger puppets and use them <br>to tell well-known stories using <br>puppet theatre | HQ | My Skills |
 | 17 Oct      | Visit a Synagogue | Look at the key features of the <br>building and explore Judaism | Synagogue | My World |
 | 24 Oct      | Making biscuits | Make biscuits and ice them | Kitchen | My Skills |
 
