@@ -30,7 +30,7 @@ By the end of the module, you will be able to:
 
 ## Diversity and inclusion
 
-The concept of diversity encompasses recognising people as individuals, understanding that everybody is unique and that we should respect our individual differences. These differences may include but are not limited to, age, gender, backgrounds, and abilities and disabilities. Encouraging diversity in Scouting promotes respects for different ideas and perspectives as well as an understanding of differences that can impact on others.
+The concept of diversity encompasses recognising people as individuals, understanding that everybody is unique and that we should respect our individual differences. These differences may include but are not limited to age, gender identity, race, religion, social or economic background, and abilities or disabilities. Encouraging diversity in Scouting promotes respect for different ideas and perspectives as well as an understanding of differences that can impact on others.
 
 When we talk about inclusion in Scouting, we are talking about the act of ensuring that Scouting is open to all and supporting anyone to overcome any barrier to participating in the Scouting programme. As part of being inclusive, we need to ensure that our programme and meeting place is appropriate and that we have considered any additional needs members might have.
 
@@ -121,6 +121,20 @@ Scenarios:
 3. You have a young person who wears a headscarf in your group. Are there are considerations you need to make to ensure everything is inclusive in the Programme?
 4. You have three young people with glasses in your group.
 5. You have one young person who can’t eat wheat and one young person who has asthma.
+
+## Further information
+
+There are some very useful resources to help ensure a scouting programme is inclusive for all. These include:
+
+- Deaf Friendly Scouting resource
+- A Million Hand’s resources: Mind, Leonard Cheshire, Guide Dogs
+- Refugee resources 
+- Makaton promise
+- Alternative versions of the promise
+
+These can all be found on [scouts.org.uk](https://www.scouts.org.uk/)
+
+If you ever have any questions about specific situations relating to additional needs and inclusion then don't be afraid to discuss it with an adult leader. Not knowing how to deal with certain circumstances at first is okay if you are open minded and willing to learn.
 
 ## Conclusion
 
