@@ -70,6 +70,8 @@ Some additional needs can fluctuate and may be affected by a range of different 
 
 It is also important to be aware of any allergies, medical needs, faith or cultural needs a young person may have. For example, you may need to cater for vegetarian, Halal and Kosher diets or a young person who is coeliac or has a nut allergy and ensure that their needs are incorporated into section meetings and camps.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ure8Lrbh5HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Activity 2
 
 Match the celebrity with their additional need:
@@ -100,6 +102,8 @@ Additional needs and disabilities should not prevent a young person from being a
 - Providing one to one support
 - Having one young person read the instructions for another
 - Having different food options available
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwW6mYdJ7Xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Activity 3
 
