@@ -43,3 +43,8 @@ paginate        = 6
   name = "Modules"
   url = "/"
   weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 100
