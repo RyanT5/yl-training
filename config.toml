@@ -2,7 +2,7 @@ baseurl         = "https://youngleadertraining.online"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 6
+paginate        = 9
 #SectionPagesMenu = "main"
 
 [params]

@@ -1,9 +1,9 @@
 ---
-title: "Module J"
-subtitle: "Communicate it!"
-date: 2020-04-18T16:00:00+01:00
+title: "Module I"
+subtitle: "What did they say?"
+date: 2020-04-19T15:14:32+01:00
 draft: false
-image: "mod-j-cover.jpg"
+image: "mod-i-cover.jpg"
 author: "Fraser Liddle"
 authorDescription: "AESL-YL Pentland"
 authorAvatar: "scouts-logo.jpg"

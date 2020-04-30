@@ -1,9 +1,9 @@
 ---
-title: "Module D"
-subtitle: "Understanding behaviour"
-date: 2020-04-24T16:00:00+01:00
+title: "Module C"
+subtitle: "That’s the way to do it!"
+date: 2020-04-25T15:14:21+01:00
 draft: false
-image: "mod-d-cover.jpg"
+image: "mod-c-cover.jpg"
 author: "Matthew Wilson"
 authorDescription: "AESL-YL Braid"
 authorAvatar: "scouts-logo.jpg"
