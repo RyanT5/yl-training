@@ -2,7 +2,7 @@
 title: "Module H"
 subtitle: "Programme planning"
 date: 2020-04-20T16:00:00+01:00
-draft: true
+draft: false
 image: "mod-h-cover.jpg"
 author: ""
 authorDescription: ""
