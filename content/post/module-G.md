@@ -74,6 +74,14 @@ A Quality Programme is Challenging, Relevant and Rewarding for every young perso
 - supporting young people with their progression through the sections
 - young people are excited about Scouting, having fun and increasing in confidence
 
+## Reviewing programme
+
+The scout association have put together a number of tool you can use to review your programme. There are different review tools for each section.
+
+If you work with Beavers, you can see their review [here](https://members.scouts.org.uk/documents/6to25/Beaver%20Quality%20Programme%20Checker%20%202018.pdf).  
+If you work with Cubs, you can see their review [here](https://members.scouts.org.uk/documents/6to25/Cubs%20Quality%20Programme%20Checker%202018.pdf).  
+If you work with Scouts, you can see their review [here](https://members.scouts.org.uk/documents/Quality%20Programme%20Checker_Scouts.pdf).
+
 ## Activity 3
 
 Plan a linking evening for your section and the section either above or below yours that would help young people transitioning between. Think about the following:

@@ -80,7 +80,7 @@ One way ESYLs can provide a positive environment is by creating a Code of Conduc
 
 ## Activity 3
 
-What the video below about code of conduct:
+Watch the video below about code of conduct:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C4si6n36n30?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
