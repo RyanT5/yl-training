@@ -40,13 +40,17 @@ A balenced programme should have elements from all three themes in each term of 
 
 <!-- ## Programme objectives -->
 
-<!-- ## Youth Shaped Scouting
+## Youth Shaped Scouting
 
 Young people working in partnership with adults in Scouting, has always been something we have been proud of. Youth Shaped Scouting not only improves the way we Scout, but also the young people involved. Learning to speak up, be heard and work towards improving something you are passionate about is an incredible learning experience for the youngest Beaver right the way through to our eldest Network member.
 
 We want every young person to shape their own adventure, take on responsibility, develop skills, make decisions and influence their own Scout Programme.
 
 There are lots of things that you can do to help this happen; from introducing section youth forums to encouraging young people to record video vlogs to share and reflect on past activities and decisions made in the section. These can be done in fun and exciting ways.
+
+## Activity 2
+
+Make a poster aimed at parents explaining all the key information about your section. Include information about your programme, awards and skills that young people will learn through scouting.
 
 ## Quality Programme
 
@@ -68,4 +72,22 @@ A Quality Programme is Challenging, Relevant and Rewarding for every young perso
 
 - developing skills for life, including teamwork and leadership
 - supporting young people with their progression through the sections
-- young people are excited about Scouting, having fun and increasing in confidence -->
+- young people are excited about Scouting, having fun and increasing in confidence
+
+## Activity 3
+
+Plan a linking evening for your section and the section either above or below yours that would help young people transitioning between. Think about the following:
+
+- Which activities would be appropriate?
+- How would you mix the two sections together?
+- Which elements of the programme are relevant to both sections (e.g. Staged Badges)?
+
+## Conclusion
+
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to fill in the "Module B at home" section there. You need to complete this to be signed off.
+
+<a href="https://www.onlinescoutmanager.co.uk/main.php">
+ <button type="button" class="go-to-osm">Go to OSM</button>
+</a>
+
+Thank you for taking the time to do training at home, stay safe :)
