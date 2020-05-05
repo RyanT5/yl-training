@@ -32,10 +32,11 @@ One of the most enjoyable parts of being a Young Leader is having the opportunit
 
 ## Activity 1
 
-1. Write in full step by step set of instructions on how you would make a sandwich from the very start to the very finish.
-2. Have a look at [this link](https://www.instructables.com/id/How-to-make-an-amazing-sandwich/) of how to make a sandwich.
-3. Compare your set of instructions to the set on the above link.
-4. Take note of any differences. Where any steps you missed or things you automatically assumed everyone would do?
+Write in full step by step set of instructions on how you would make a sandwich from the very start to the very finish.
+
+Once you're done, have a look at [this link](https://www.instructables.com/id/How-to-make-an-amazing-sandwich/) for another guide of how to make a sandwich.
+
+Compare your set of instructions to the set in the above link. Take note of any differences. Were there any steps you missed or things you automatically assumed everyone would do?
 
 ## Different methods of learning
 
@@ -45,21 +46,21 @@ Demonstrating a skill or technique can help young people learn by example. This 
 
 ## Activity 2
 
-1. Watch this video on the sign language alphabet:
+Watch this video on the sign language alphabet:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWKkrllhOCc?start=28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Now watch the this video on the sign language alphabet:
+Now watch the this video on the sign language alphabet:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clPTV1wq8Jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. Now have a look at the picture below of the sign language alphabet:
+Now have a look at the picture below of the sign language alphabet:
 
 !["BSL Fingerspelling"](/BSL-Fingerspelling.png)
 
-4. Try filming yourself signing your name.
+Try filming yourself signing your name.
 
-5. Compare the different ways of learning and take a note of what you thought was good and what you thought was bad.
+Compare the different ways of learning and take a note of what you thought was good and what you thought was bad.
 
 ## Activity 3
 

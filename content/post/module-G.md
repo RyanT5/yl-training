@@ -36,13 +36,13 @@ If you work with Beavers, you can see their badges [here](https://www.scouts.org
 If you work with Cubs, you can see their badges [here](https://www.scouts.org.uk/cubs/activity-badges/).  
 If you work with Scouts, you can see their badges [here](https://www.scouts.org.uk/scouts/activity-badges/).
 
-A balenced programme should have elements from all three themes in each term of meetings. Reflect on which themes your section have focused on most in the time you've been there and come up with some ideas for what you could do when meetings resume to diversify.
+A balanced programme should have elements from all three themes in each term of meetings. Reflect on which themes your section has focused on most in the time you've been there and come up with some ideas for what you could do when meetings resume to diversify.
 
 <!-- ## Programme objectives -->
 
 ## Youth Shaped Scouting
 
-Young people working in partnership with adults in Scouting, has always been something we have been proud of. Youth Shaped Scouting not only improves the way we Scout, but also the young people involved. Learning to speak up, be heard and work towards improving something you are passionate about is an incredible learning experience for the youngest Beaver right the way through to our eldest Network member.
+Young people working in partnership with adults in Scouting has always been something we have been proud of. Youth Shaped Scouting not only improves the way we Scout, but also the young people involved. Learning to speak up, be heard and work towards improving something you are passionate about is an incredible learning experience for the youngest Beaver right the way through to our eldest Network member.
 
 We want every young person to shape their own adventure, take on responsibility, develop skills, make decisions and influence their own Scout Programme.
 
@@ -50,7 +50,7 @@ There are lots of things that you can do to help this happen; from introducing s
 
 ## Activity 2
 
-Make a poster aimed at parents explaining all the key information about your section. Include information about your programme, awards and skills that young people will learn through scouting.
+Make a poster aimed at parents explaining all the key information about your section. Include information about your programme, awards and skills that young people will learn through Scouting.
 
 ## Quality Programme
 
@@ -60,7 +60,7 @@ A Quality Programme is Challenging, Relevant and Rewarding for every young perso
 
 - more opportunities for outdoor and adventurous activities in safe environments
 - gaining confidence by participating in new or less familiar activities and stepping out of their comfort zones
-- all young people regardless of their abilities, can enjoy and achieve 
+- all young people regardless of their abilities can enjoy and achieve 
 
 ###### What we mean by Relevant:
 
