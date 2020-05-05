@@ -10,3 +10,8 @@ authorAvatar: "scouts-logo.jpg"
 ---
 
 No content yet
+
+
+Click on the badges tab
+Click on "Young Leder modules" badge under challenge badges
+Click complete at home and follow instructions
