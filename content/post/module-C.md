@@ -72,10 +72,16 @@ Try making one yourself so you know what you're doing. Once you think you have t
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to fill in the "Module C at home" section there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+
+1. Click on the "Badges" tab on the left side
+2. Click on the "Young Leader Modules" badge in "Challenge Badges"
+3. Click "Complete at home" and follow the instructions
 
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+Once you have uploaded your evidence and a leader has reviewed it, you may be invited to a Zoom call to talk through the module.
 
 Thank you for taking the time to do training at home, stay safe :)
