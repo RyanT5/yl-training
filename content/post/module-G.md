@@ -13,7 +13,7 @@ authorAvatar: ""
 
 Read each of the sections below and complete all the activities. Once you reach the end, there is a link to OSM where you can upload evidence of your work from the activities. OSM is how we keep track of your progress so you must complete it to have evidence of this module. You can either write your work digitally or take a picture of any pieces of paper you use. However you choose, make sure you keep track of your work to get the recognition.
 
-This module will take you 45 minutes to an hour to complete.
+This module will take you an hour to an hour and a half to complete.
 
 ## Objectives
 
