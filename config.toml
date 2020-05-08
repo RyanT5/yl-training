@@ -1,4 +1,4 @@
-baseurl         = "https://youngleadertraining.online"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
