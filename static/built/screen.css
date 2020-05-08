@@ -85,6 +85,14 @@ video {
 body {
   line-height: 1;
 }
+/*  */
+#intro {
+  text-align: left;
+  margin-top: 1.5em;
+  font-size: 18px;
+  max-width: 750px;
+}
+/*  */
 ol,
 ul {
   list-style: none;
