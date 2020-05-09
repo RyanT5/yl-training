@@ -15,9 +15,9 @@
   <div class="post-card-content">
     <a class="post-card-content-link" href="{{ .Permalink }}">
       <header class="post-card-header">
-        {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }} #{{$tag}} {{end}}
+        <!-- {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }} #{{$tag}} {{end}}
         </span>
-        {{ end }}
+        {{ end }} -->
         <h2 class="post-card-title">{{.Title}}</h2>
         <h1 class="post-card-title">{{.Params.subtitle}}</h1>
       </header>
