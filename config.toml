@@ -49,10 +49,10 @@ paginate        = 10
   url = "/tags/missions/"
   weight = 150
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 100
+#[[menu.main]]
+#  name = "About"
+#  url = "/about/"
+#  weight = 100
 
 [[menu.main]]
   name = "Feedback"
