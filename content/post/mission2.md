@@ -24,9 +24,9 @@ The activities should include:
 
 - planning and organisation 
 
-- delivery 
-
 - gathering any equipment or materials needed
+
+- delivery 
 
 To complete this mission, you could:
 

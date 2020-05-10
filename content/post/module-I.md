@@ -21,9 +21,9 @@ This module aims to make you aware of the importance of listening to the views o
 
 By the end of this module, you will be able to:
 
--   understand why it is important to get feedback and input from young people in the section
--   list different ways you can gather ideas and feedback within your section
--   explain how you can bring your section’s ideas to life and make adaptations where necessary
+- understand why it is important to get feedback and input from young people in the section
+- list different ways you can gather ideas and feedback within your section
+- explain how you can bring your section’s ideas to life and make adaptations where necessary
 
 ## Feedback
 
@@ -41,9 +41,9 @@ Gaining feedback can be done somewhat informally by chatting to the kids either 
 
 More formal log-chews or pack forums can also be run that generally involve the whole section. The best way for these to be run is to make them fun, interactive and embedded into the programme by turning them into activities and games in their own right, such as:
 
--   Playing the four-corner game - giving kids four options and they have to run to the corner that represents the idea that they favour
--   Asking each lodge or six to act out their favourite activity of the last term for the others to guess – would work towards their Entertainer badge
--   Running a night that teaches them about democracy and each kid is able to vote in a ballot box for the badge they want to work on in the next term
+- Playing the four-corner game - giving kids four options and they have to run to the corner that represents the idea that they favour
+- Asking each lodge or six to act out their favourite activity of the last term for the others to guess – would work towards their Entertainer badge
+- Running a night that teaches them about democracy and each kid is able to vote in a ballot box for the badge they want to work on in the next term
 
 ## Activity 1
 
@@ -59,9 +59,9 @@ The young people are usually much more imaginative than the leader team and may 
 
 Using the methodology above, come up with ways to make these ideas happen:
 
--   Beavers want to climb Everest
--   Cubs want to camp in the rainforest
--   Scouts want to go skydiving
+- Beavers want to climb Everest
+- Cubs want to camp in the rainforest
+- Scouts want to go skydiving
 
 ## Activity 3
 
@@ -78,7 +78,5 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
-
-Once you have uploaded your evidence and a leader has reviewed it, you may be invited to a Zoom call to talk through the module.
 
 Thank you for taking the time to do training at home, stay safe :)

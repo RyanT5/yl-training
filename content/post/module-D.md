@@ -98,6 +98,4 @@ Look back at the objectives at the top of this page and see if you think you are
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-Once you have uploaded your evidence and a leader has reviewed it, you may be invited to a Zoom call to talk through the module.
-
 Thank you for taking the time to do training at home, stay safe :)
