@@ -2,7 +2,7 @@ baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 9
+paginate        = 10
 #SectionPagesMenu = "main"
 
 [params]
@@ -26,7 +26,7 @@ paginate        = 9
   orgDescription = ""
 
   author = "Ryan Schuller"
-  authorAvatar = "ryan.jpeg"
+  authorAvatar = "scouts-logo.jpg"
   authorLocation = ""
   authorWebsite = ""
   authorDescription = "AESL-YL Braid"
@@ -49,10 +49,10 @@ paginate        = 9
   url = "/tags/missions/"
   weight = 150
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 100
+#[[menu.main]]
+#  name = "About"
+#  url = "/about/"
+#  weight = 100
 
 [[menu.main]]
   name = "Feedback"
