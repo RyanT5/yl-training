@@ -53,3 +53,9 @@ paginate        = 9
   name = "About"
   url = "/about/"
   weight = 100
+
+[[menu.main]]
+  name = "Feedback"
+  url = "/feedback/"
+  weight = 50
+  
