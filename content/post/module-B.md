@@ -51,7 +51,7 @@ Can you think of any more characteristics to add to the list? Can you think of a
 
 ## Activity 1
 
-Imagine you want to run a campaign to become President of the World. Write a short pitch of what qualifies you for that role. Describe which of the above leadership qualities you think you have and some examples of situations where you have demonstrated them.
+Imagine you want to run a campaign to become President of the World. Write or film yourself giving a short pitch of what qualifies you for that role. Describe which of the above leadership qualities you think you have and some examples of situations where you have demonstrated them.
 
 ## Styles of leadership
 

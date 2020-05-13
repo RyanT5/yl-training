@@ -18,7 +18,7 @@ paginate        = 10
 
   twitterName = ""
   fbName = ""
-  githubName = "RyanT5/yl-training"
+  githubName = ""
 
   logo = ""
   orgName = "Braid & Pentland YL Training Team"

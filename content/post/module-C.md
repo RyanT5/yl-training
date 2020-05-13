@@ -28,7 +28,7 @@ By the end of this module, you will have an understanding of:
 
 ## Teaching new skills
 
-One of the most enjoyable parts of being a Young Leader is having the opportunity to teach new skills to young people. As ESYL’s you will have a good idea of what makes a good teacher – teachers who talk at their pupils all the time are, quite frankly, deadly boring. Teachers who take the time to involve their pupils actively in the work are much more interesting – and, as a result, much more effective at getting their message across.
+One of the most enjoyable parts of being a Young Leader is having the opportunity to teach new skills to young people. As ESYL’s you will have a good idea of what makes a good teacher – teachers who talk at their pupils all the time are, quite frankly, deadly boring. Teachers who take the time to involve their pupils actively in the work are much more engaging – and, as a result, much more effective at getting their message across.
 
 ## Activity 1
 
