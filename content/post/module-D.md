@@ -19,13 +19,13 @@ This module will take you 45 minutes to an hour to complete.
 
 The aim of this module is to give you, as a Young Leader, a basic understanding of the different behaviours that young people can display and some possible causes. By the end, you should be able to recognise and propose possible solutions for different behaviours.
 
-By the end of this module, you will:
+By the end of this module, you will have an understanding of:
 
-- understand different types of behaviour
-- understand and talk about the causes and triggers that can lead to different types of behaviour
-- demonstrate a number of tools or methods that could be used to manage behaviour
-- explain how you, as a Young Leader, can assist with managing behaviour in the section
-- explain where you can get further assistance, and when to involve adults
+- different types of behaviour
+- talking about the causes and triggers that can lead to different types of behaviour
+- a number of tools or methods that could be used to manage behaviour
+- how to explain how you, as a Young Leader, can assist with managing behaviour in the section
+- how to explain where you can get further assistance, and when to involve adults
 
 ## Approaching behaviour
 
@@ -54,7 +54,7 @@ This is what can be know as a trigger something which creates something like a i
 
 ## Reasons for behaviour
 
-There is always a reason behind challenging behaviour. Examples could include: boredom, over-excitement, enthusiasm, a misunderstanding about what is appropriate behaviour, a misunderstanding understanding the rules, experiences outside of Scouting, experiencing a bad mental health day and the environment (e.g. noisy, overwhelming, unfamiliar).
+There is always a reason behind challenging behaviour. Examples could include: boredom, over-excitement, enthusiasm, a misunderstanding about what is appropriate behaviour, a misunderstanding understanding the rules, experiences outside of Scouting, experiencing a bad mental health day, family circumstances and the environment (e.g. noisy, overwhelming, unfamiliar).
 
 Challenging behaviour is often misjudged as ‘attention seeking’. It’s natural to want and need attention from others, but usually this is sought in a positive way. It’s important to think about why a young person might be seeking attention. Are they receiving enough positive attention from adults? Is there something important they are struggling to communicate to you? Do they need support with developing friendships in the section?
 
@@ -88,7 +88,7 @@ From watching that video, create a code of conduct for the young leaders scheme.
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"

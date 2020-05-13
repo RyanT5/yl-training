@@ -1,7 +1,7 @@
 ---
 title: "Mission 3"
 subtitle: "Programme planning"
-date: 2020-04-08T16:20:44+01:00
+date: 2020-04-08T16:00:00+01:00
 draft: false
 image: "mod-3-cover.jpg"
 author: ""
@@ -48,12 +48,12 @@ This could be done in a virtual meeting too!
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience. For this mission, please write an answer to each of the following questions:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 2 page of your logbook. If you don't have a logbook then please write an answer to each of the following questions:
 
-- What did I do to gather ideas from the young people? What did I want to achieve?
-- How did I turn those ideas into action and feedback the information?
-- What did I learn from this task? Why do we involve young people in programme planning?
-- What would I do differently next time?
+- What did you do to gather ideas from the young people? What did you want to achieve?
+- How did you turn those ideas into action and feedback the information?
+- What did you learn from this task? Why do you involve young people in programme planning?
+- What would you do differently next time?
 
 Once you have done this, you can upload the evidence through OSM.
 
@@ -65,6 +65,6 @@ Once you have done this, you can upload the evidence through OSM.
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-If there are any parts you are unsure of then you can contact the YL training team with any questions.
+If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
 Thank you for taking the time to complete this at home, stay safe :)

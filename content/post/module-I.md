@@ -19,11 +19,11 @@ This module will take you 45 minutes to an hour to complete.
 
 This module aims to make you aware of the importance of listening to the views of young people. It gives an overview of how to bring their ideas to life, how to adapt their ideas where necessary, and how to and involve them in the planning of their programme.
 
-By the end of this module, you will be able to:
+By the end of this module, you will have an understanding of:
 
-- understand why it is important to get feedback and input from young people in the section
-- list different ways you can gather ideas and feedback within your section
-- explain how you can bring your section’s ideas to life and make adaptations where necessary
+- why it is important to get feedback and input from young people in the section
+- different ways you can gather ideas and feedback within your section
+- how you can bring your section’s ideas to life and make adaptations where necessary
 
 ## Feedback
 
@@ -69,7 +69,7 @@ Write a paragraph to give us your views on the Young Leader training programme.
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
@@ -78,5 +78,7 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
 Thank you for taking the time to do training at home, stay safe :)

@@ -19,13 +19,13 @@ This module will take you 45 minutes to an hour to complete.
 
 This module aims to introduce you to the different concepts of leadership. It will teach you how to adapt your style so you can most effectively lead different kinds of activities.
 
-By the end of this module, you will:
+By the end of this module, you will have an understanding of:
 
-- have the confidence to take on a leadership role within your chosen section
-- be able to run programme activities that are appropriate for your role
-- recognise different leadership styles and understand when each should be used to best effect
-- recognise how different styles of leadership impact an activity
-- understand the need for evaluation, and know how to implement the process as necessary
+- having the confidence to take on a leadership role within your chosen section
+- running programme activities that are appropriate for your role
+- different leadership styles and understanding when each should be used to best effect
+- how different styles of leadership impact an activity
+- the need for evaluation, and knowing how to implement the process as necessary
 
 ## What makes leaders effective?
 
@@ -100,7 +100,7 @@ Make sure you get permission from a parent/guardian for any items you use that a
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
@@ -109,5 +109,7 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+If you have finished this module then you might be ready to do [Mission 1 and 2](/tags/missions).
 
 Thank you for taking the time to do training at home, stay safe :)

@@ -1,7 +1,7 @@
 ---
 title: "Mission 1"
 subtitle: "Game"
-date: 2020-04-10T16:20:35+01:00
+date: 2020-04-10T16:00:00+01:00
 draft: false
 image: "mod-1-cover.jpg"
 author: ""
@@ -38,7 +38,7 @@ This could be done in a virtual section meeting too!
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience. For each of the three games you ran, please make notes on:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 1 page of your logbook. If you don't have a logbook then for each of the three games you ran, please or make notes on:
 
 - date
 - location
@@ -59,6 +59,6 @@ Once you have done this for all three, you can upload the evidence through OSM.
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-If there are any parts you are unsure of then you can contact the YL training team with any questions.
+If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
 Thank you for taking the time to complete this at home, stay safe :)

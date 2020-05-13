@@ -19,18 +19,27 @@ This module will take you 45 minutes to an hour to complete.
 
 This module will teach you how to create an environment that is inclusive and welcoming for all young people in the section. It will give you an understanding of some different additional needs a young person might have, and show you how to make reasonable adjustments to make the programme more inclusive for all.
 
-By the end of the module, you will be able to:
+By the end of the module, you will have an understanding of:
 
-- understand that every young person is different
-- understand that every young person is welcome in Scouting
-- understand your role in contributing to a positive and inclusive environment
-- state a range of additional needs may affect participation in the programme
-- explain how to adapt programmes to meet the needs of all young people within the section
-- explain were to go further information and guidance
+- that every young person is different
+- that every young person is welcome in Scouting
+- your role in contributing to a positive and inclusive environment
+- a range of additional needs may affect participation in the programme
+- how to adapt programmes to meet the needs of all young people within the section
+- where to get further information and guidance
 
-## Diversity and inclusion
+## Diversity and Inclusion
 
-The concept of diversity encompasses recognising people as individuals, understanding that everybody is unique and that we should respect our individual differences. These differences may include but are not limited to age, gender identity, race, religion, social or economic background, and abilities or disabilities. Encouraging diversity in Scouting promotes respect for different ideas and perspectives as well as an understanding of differences that can impact on others.
+The concept of diversity encompasses recognising people as individuals, understanding that everybody is unique and that we should respect our individual differences. These differences may include but are not limited to:
+
+- age
+- gender identity
+- race
+- religion
+- social or economic background
+- abilities or disabilities
+
+Encouraging diversity in Scouting promotes respect for different ideas and perspectives as well as an understanding of differences that can impact on others.
 
 When we talk about inclusion in Scouting, we are talking about the act of ensuring that Scouting is open to all and supporting anyone to overcome any barrier to participating in the Scouting programme. As part of being inclusive, we need to ensure that our programme and meeting place is appropriate and that we have considered any additional needs members might have.
 
@@ -60,7 +69,7 @@ Scouts:
 [World](https://www.scouts.org.uk/scouts/awards/world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)
 
-## Additional needs and disabilities
+## Additional Needs and Disabilities
 
 Additional needs and disabilities may be visible or invisible, and the needs of each young person will be unique. Some may occur for a limited period of time. For example, a broken arm, an illness, or some emotional needs due to a family break-up, are all temporary needs.
 
@@ -94,7 +103,7 @@ Scouts:
 [World](https://www.scouts.org.uk/scouts/awards/world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)
 
-## Additional needs and inclusion
+## Additional Needs and Inclusion
 
 Additional needs and disabilities should not prevent a young person from being able to participate in Scouting. By making reasonable adjustments most young people can access Scouting and develop to their full potential. Most adjustments take the form of adding something to or removing something from the activity. Adjustments could include:
 
@@ -128,7 +137,7 @@ Scenarios:
 
 ## Further information
 
-There are some very useful resources to help ensure a scouting programme is inclusive for all. These include:
+There are some very useful resources to help ensure a Scouting programme is inclusive for all. These include:
 
 - Deaf Friendly Scouting resource
 - A Million Hand’s resources: Mind, Leonard Cheshire, Guide Dogs
@@ -142,7 +151,7 @@ If you ever have any questions about specific situations relating to additional 
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"

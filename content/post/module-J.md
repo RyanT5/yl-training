@@ -19,21 +19,21 @@ This module will take you 45 minutes to an hour to complete.
 
 This module aims to make you aware of the importance of different communication styles and the impact that the way you communicate has on others. It will look at how you can adapt your style to suit your audience, whether you are in section meetings or leader meetings. It will also look at how to talk about the skills you are gaining through the YL scheme whenever talking to other people both inside and outside of Scouting.
 
-By the end of this module you will:
+By the end of this module you will have an understanding of:
 
--   understand how important effective communication is between leaders and young people in their section 
--   adapt your communication style to suit the activity or situation 
--   explain how tone and body language can affect how you communicate with others
--   be able to communicate how the experiences and skills you are gaining through the YL scheme can be used to help you in other Scouting and non-Scouting activities
+- how important effective communication is between leaders and young people in their section 
+- adapting your communication style to suit the activity or situation 
+- how tone and body language can affect how you communicate with others
+- how to communicate how the experiences and skills you are gaining through the YL scheme can be used to help you in other Scouting and non-Scouting activities
 
 ## Communication
 
 Communication is the ability to convey information and share meaning. The aim is to be understood by your audience, to do this effectively you need to be able to understand them as well. You can express your thoughts:
 
--   Verbally – by speaking 
--   Visually – presenting information as an image, map
--   Non-verbally – through your body language, eye contact, gestures
--   In writing – through notes, emails etc
+- Verbally – by speaking 
+- Visually – presenting information as an image, map
+- Non-verbally – through your body language, eye contact, gestures
+- In writing – through notes, emails etc
 
 To be able to understand your audience you need to be to actively listen to their views as well. It is easily overlooked, as people tend to focus more on what they want to say, rather than listening to what the other person is saying. Knowing when to pause to allow the other person to talk is an important skill. It conveys respect and a willingness to hear the other person’s point of view.
 
@@ -84,13 +84,13 @@ The ability to lead, communicate and plan are desirable skills for a candidate t
 
 Write an answer for each of the following points:
 
--   Tell us about time you engaged cooperatively in a team. What went well? What would you do differently in the future?
--   Tell us about a time you led a group that was not solely made up of your peers. What did you do? What went well? What would you do differently in the future?
--   Tell us about a time someone inspired you to do something? What made them inspire you?
+- Tell us about time you engaged cooperatively in a team. What went well? What would you do differently in the future?
+- Tell us about a time you led a group that was not solely made up of your peers. What did you do? What went well? What would you do differently in the future?
+- Tell us about a time someone inspired you to do something? What made them inspire you?
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"

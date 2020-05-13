@@ -1,12 +1,12 @@
 ---
 title: "Mission 4"
 subtitle: "Delivery"
-date: 2020-04--7T16:20:49+01:00
+date: 2020-04--7T16:00:00+01:00
 draft: false
 image: "mod-4-cover.jpg"
-author: ""
-authorDescription: ""
-authorAvatar: ""
+author: "Fraser Liddle"
+authorDescription: "AESL-YL Pentland"
+authorAvatar: "scouts-logo.jpg"
 tags: ["missions"]
 ---
 
@@ -48,14 +48,14 @@ To complete this mission, you could:
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience. For this mission, please write an answer to each of the following questions:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 2 page of your logbook. If you don't have a logbook then please write an answer to each of the following questions:
 
 - What did you do to complete mission 4?
 - What went well?
 - What did you learn?
 - What would you do differently next time?
 
-Once you have done this, you can upload the evidence through OSM.
+Once you have done this, you can upload the evidence through OSM along with a programme of the evening and risk assessment.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Mission 4" badge in "Challenge Badges"
@@ -65,6 +65,6 @@ Once you have done this, you can upload the evidence through OSM.
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-If there are any parts you are unsure of then you can contact the YL training team with any questions.
+If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
 Thank you for taking the time to complete this at home, stay safe :)

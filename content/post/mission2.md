@@ -1,12 +1,12 @@
 ---
 title: "Mission 2"
 subtitle: "Activity"
-date: 2020-04-09T16:20:39+01:00
+date: 2020-04-09T16:00:00+01:00
 draft: false
 image: "mod-2-cover.jpg"
-author: ""
-authorDescription: ""
-authorAvatar: ""
+author: "Matthew Wilson"
+authorDescription: "AESL-YL Braid"
+authorAvatar: "scouts-logo.jpg"
 tags: ["missions"]
 ---
 
@@ -44,7 +44,7 @@ This could be done in a virtual section meeting too!
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience. For the activity you choose, please make notes on:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 2 page of your logbook. If you don't have a logbook then for the activity you choose, please make notes on:
 
 - date
 - location
@@ -63,6 +63,6 @@ Once you have done this, you can upload the evidence through OSM.
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-If there are any parts you are unsure of then you can contact the YL training team with any questions.
+If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
 Thank you for taking the time to complete this at home, stay safe :)

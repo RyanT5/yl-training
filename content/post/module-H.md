@@ -19,14 +19,14 @@ This module will take you 45 minutes to an hour to complete.
 
 This module aims to provide you with the skills and understanding necessary to plan and run a balanced programme for their section over a three-month period.
 
-By the end of this module, you will be able to:
+By the end of this module, you will have an understanding of:
 
-- know where to look for programme ideas
-- understand the concept of running a high quality, balanced programme over a three-month period
-- use a range of programme planning techniques
-- describe what needs to be considered when planning and running activities
-- plan an outline programme for a three-month period
-- assess awards and badges on the basis of ‘personal best’
+- where to look for programme ideas
+- running a high quality, balanced programme over a three-month period
+- how to use a range of programme planning techniques
+- what needs to be considered when planning and running activities
+- how to plan an outline programme for a three-month period
+- how to assess awards and badges on the basis of ‘personal best’
 
 ## Finding programme ideas
 
@@ -42,6 +42,8 @@ Go around your house and collect 5 random objects. Imagine you had these 5 objec
 
 To run a successful scout section requires a lot of planning. You need to have a plan for what to do each night of a term but you also need to know what you're doing with an evening. Young people can get restless if they only have one activity to do for 90 minutes and they may get bored if it's all badge work and no games. Planning out an evening meeting can ensure you keep young people interested in what they are doing at all times and they go home happy.
 
+Think about the 5 Ps strategy. Prior Planning Prevents Poor Performance.
+
 ## Activity 2
 
 Plan out an evening meeting for your section. Pick a badge to do some work towards and some games to play. Remember to also plan in time for flag break and cleaning up at the end.
@@ -56,7 +58,7 @@ There are three terms in every year and each one has different weather, daylight
 
 Whenever you are planning for, it is worth thinking about:
 
-- national, District and County, Area or Region events and activities
+- National, District and County, Area or Region events and activities
 - major projects and national programme initiatives
 - activities they’ve done before
 - new activities they might like to try
@@ -84,7 +86,7 @@ Remember to check badge requirements and ensure your activities tick all the box
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
@@ -93,5 +95,7 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
 Thank you for taking the time to do training at home, stay safe :)

@@ -19,12 +19,12 @@ This module will take you 45 minutes to an hour to complete.
 
 The aim of this module is to give ESYLs a good understanding of the importance of games in the section meeting. It will give you an idea of the different types of games that can be played and when to use them to greatest effect.
 
-By the end of this module, you will:
+By the end of this module, you will have an understanding of:
 
-- understand the importance of games in the section meeting
-- understand the need for different types of games and when to play them
-- be able to explain and run different types of games
-- be able to select games that suit the section’s programme
+- the importance of games in the section meeting
+- the need for different types of games and when to play them
+- how explain and run different types of games
+- how to select games that suit the section’s programme
 
 ## Games in Scouting
 
@@ -69,6 +69,7 @@ To run games successfully, preparation is vital. Think about each of the followi
 - timekeeping
 - safety (equipment and environment)
 - supervision
+- set up and clean up time
 
 ## Activity 3
 
@@ -76,7 +77,7 @@ By this point in the module, you should have loads of games in mind that you cou
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
@@ -85,5 +86,7 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+If you have finished this module then you should be ready to do [Mission 1](/mission-1).
 
 Thank you for taking the time to do training at home, stay safe :)

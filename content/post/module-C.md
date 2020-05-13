@@ -19,12 +19,12 @@ This module will take you 45 minutes to an hour to complete.
 
 This module aims to give Young Leaders a general understanding of how to successfully demonstrate and teach a variety of skills. It will help make that process fun, and ensure that section members enjoy the experience.
 
-By the end of this module, you will:
+By the end of this module, you will have an understanding of:
 
-- understand and be able to talk about how young people learn effectively
-- demonstrate an ability to pass on skills to younger people
-- understand and talk about different learning styles
-- have confidence in using different training techniques
+- how to talk about how young people learn effectively
+- demonstrating an ability to pass on skills to younger people
+- talking about different learning styles
+- having confidence in using different training techniques
 
 ## Teaching new skills
 
@@ -72,7 +72,7 @@ Try making one yourself so you know what you're doing. Once you think you have t
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
@@ -81,5 +81,7 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+If you have finished this module then you might be ready to do [Mission 1 and 2](/tags/missions).
 
 Thank you for taking the time to do training at home, stay safe :)

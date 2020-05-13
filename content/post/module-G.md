@@ -19,14 +19,14 @@ This module will take you an hour to an hour and a half to complete.
 
 This module aims to provide you with the knowledge of what a high quality, balanced programme is and looks like for the section support. It will help you to understand how awards and badges help to achieve this. It will also give you tips on where to find ideas for planning a high quality programme and tips on reviewing the programme to ensure that it is challenging, relevant and rewarding for each young person in the section.
 
-By the end of this module, you will be able to:
+By the end of this module, you will have an understanding of:
 
-- identify the key elements of the younger section programmes, activity badges, challenge awards, requirements for completing top awards, and Staged Activity Badges
-- explain how the awards and badges form a progressive Scheme from age 6 to 25
-- understand the concept and importance of having a balanced high quality programme and working towards the top awards
-- understand and explain how Moving On Awards improve links between sections
-- explain what makes us unique as an organisation
-- review the programme using the quality programme checkers
+- the key elements of the younger section programmes, activity badges, challenge awards, requirements for completing top awards, and Staged Activity Badges
+- how the awards and badges form a progressive Scheme from age 6 to 25
+- the importance of having a balanced high quality programme and working towards the top awards
+- how Moving On Awards improve links between sections
+- what makes us unique as an organisation
+- how to review the programme using the quality programme checkers
 
 ## Activity 1
 
@@ -37,8 +37,6 @@ If you work with Cubs, you can see their badges [here](https://www.scouts.org.uk
 If you work with Scouts, you can see their badges [here](https://www.scouts.org.uk/scouts/activity-badges/).
 
 A balanced programme should have elements from all three themes in each term of meetings. Reflect on which themes your section has focused on most in the time you've been there and come up with some ideas for what you could do when meetings resume to diversify.
-
-<!-- ## Programme objectives -->
 
 ## Youth Shaped Scouting
 
@@ -92,7 +90,7 @@ Plan a linking evening for your section and the section either above or below yo
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can contact the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
@@ -101,5 +99,7 @@ Look back at the objectives at the top of this page and see if you think you are
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
+
+If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
 Thank you for taking the time to do training at home, stay safe :)
