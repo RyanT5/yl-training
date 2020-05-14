@@ -24,8 +24,8 @@ By the end of this module, you will have an understanding of:
 - different types of behaviour
 - talking about the causes and triggers that can lead to different types of behaviour
 - a number of tools or methods that could be used to manage behaviour
-- how to explain how you, as a Young Leader, can assist with managing behaviour in the section
-- how to explain where you can get further assistance, and when to involve adults
+- how you, as a Young Leader, can assist with managing behaviour in the section
+- where you can get further assistance, and when to involve adults
 
 ## Approaching behaviour
 
@@ -48,10 +48,6 @@ In this activity you will be reflecting on your own experiences. Write down an a
 - What and who influences your mood?
 - What brings out the best in you?
 
-<!-- Everyone has good days and bad days. Some people's good days are getting there test results back and have the highest result in class while others getting them back and may have not passed. Think about how you would act if you had got the highest mark in class compared to if you got the lowest and how you feel and how you would act around others. I you had the highest mark you would be really happy and proud of yourself but if you had the lowest you may feel upset with yourself and disappointed. At this point think about what would make you feel more upset and note it down.
-
-This is what can be know as a trigger something which creates something like a if you hand’t passed and a class mate says “have you got a brain” it would possibly upset you, anger you or evanescence’s make you feel uncomfortable. -->
-
 ## Reasons for behaviour
 
 There is always a reason behind challenging behaviour. Examples could include: boredom, over-excitement, enthusiasm, a misunderstanding about what is appropriate behaviour, a misunderstanding understanding the rules, experiences outside of Scouting, experiencing a bad mental health day, family circumstances and the environment (e.g. noisy, overwhelming, unfamiliar).
@@ -68,12 +64,6 @@ Once you have written your list, think about the causes behind each one and writ
 - If someone is struggling to understand something, can we present the information in a different way? Can we have extra people on board to support? Can we check for any differences in how young people in the section learn, and adapt our leadership style to suit them?
 - If someone is over-excited, can we set clear boundaries before the activity begins? Can we make sure we have a code of conduct in place?
 
-<!-- For example, if you had a scout who was refusing to take part in an activity, this could be classed as playing up but the cause could be boredom. -->
-
-<!-- Please watch the attached video about challenging behaviour-https://www.youtube.com/watch?v=lvqbh_8mp-U -->
-
-<!-- Think about if you have a young person in your section what helps them partisapte in activities and note it down. (??? GDPR) -->
-
 ## Managing behaviour
 
 One way YLs can provide a positive environment is by creating a Code of Conduct in partnership with their section. A Code of Conduct is not just a list of rules for young people to follow. It can include rules for the leadership team to follow, too. You should consider how the leadership team should respond if a young person is having a bad day.
@@ -85,6 +75,17 @@ Watch the video below about code of conduct:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C4si6n36n30?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From watching that video, create a code of conduct for the young leaders scheme.
+
+## Further information
+
+There are some useful resources to help you improve your approach to behaviour. These include:
+
+- [scouts.org.uk/behaviour](https://scouts.org.uk/behaviour)
+- District and Regional/County support
+- Young person's previous section leaders
+- Young person's parents/Carers
+
+If you ever feel out of your depth when dealing with behaviour then seek the help of an adult leader. As a young leader, you should never be left to deal with challenging behaviour on your own.
 
 ## Conclusion
 
