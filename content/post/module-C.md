@@ -82,6 +82,6 @@ Look back at the objectives at the top of this page and see if you think you are
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-If you have finished this module then you might be ready to do [Mission 1 and 2](/tags/missions).
+If you have finished this module then you might be ready to do [Mission 1 and 2](/missions).
 
 Thank you for taking the time to do training at home, stay safe :)

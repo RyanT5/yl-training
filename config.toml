@@ -37,7 +37,8 @@ paginate        = 10
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/:slug/"
+  post = "/:slug"
+  tags = "/:slug"
 
 [[menu.main]]
   name = "Modules"
@@ -46,16 +47,16 @@ paginate        = 10
 
 [[menu.main]]
   name = "Missions"
-  url = "/tags/missions/"
+  url = "/missions"
   weight = 150
 
 #[[menu.main]]
 #  name = "About"
-#  url = "/about/"
+#  url = "/about"
 #  weight = 100
 
 [[menu.main]]
   name = "Feedback"
-  url = "/feedback/"
+  url = "/feedback"
   weight = 50
   
