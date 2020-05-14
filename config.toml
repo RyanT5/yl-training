@@ -11,7 +11,7 @@ paginate        = 10
 
   cover       = "background.jpg"
   description = "Modules to do at home"
-  metaDescription = ""
+  metaDescription = "This is a website to support young leaders to continue training during social distancing. The content was put togther by the Braid and Pentland YL Training Team."
   googleAnalytics = "UA-131397022-1"
   customCSS = []
   RSSLink = ""
