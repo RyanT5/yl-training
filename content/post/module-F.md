@@ -147,6 +147,8 @@ There are some very useful resources to help ensure a Scouting programme is incl
 
 These can all be found on [scouts.org.uk](https://www.scouts.org.uk/)
 
+<!-- You may also find resources and support at the National and Regional/County levels. -->
+
 If you ever have any questions about specific situations relating to additional needs and inclusion then don't be afraid to discuss it with an adult leader. Not knowing how to deal with certain circumstances at first is okay if you are open minded and willing to learn.
 
 ## Conclusion

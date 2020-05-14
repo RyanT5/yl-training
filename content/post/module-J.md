@@ -35,7 +35,7 @@ Communication is the ability to convey information and share meaning. The aim is
 - Non-verbally – through your body language, eye contact, gestures
 - In writing – through notes, emails etc
 
-To be able to understand your audience you need to be to actively listen to their views as well. It is easily overlooked, as people tend to focus more on what they want to say, rather than listening to what the other person is saying. Knowing when to pause to allow the other person to talk is an important skill. It conveys respect and a willingness to hear the other person’s point of view.
+To be able to understand your audience you need to be able to actively listen to their views as well. It is easily overlooked, as people tend to focus more on what they want to say, rather than listening to what the other person is saying. Knowing when to pause to allow the other person to talk is an important skill. It conveys respect and a willingness to hear the other person’s point of view.
 
 Effective communication occurs when you use active listening. It enables you to ensure that your section understands the activity. It allows different ideas to be expressed and tips and experience to be shared with the group. It is a key skill for gathering feedback.
 
@@ -71,7 +71,7 @@ When communicating with others it is important to consider how you say something
 
 ## Activity 1
 
-When explaining a new activity to your section, what body language should you use? How can you ensure that all you section are engaging with what you are saying?
+When explaining a new activity to your section, what body language should you use? How can you ensure that all of your section are engaging with what you are saying?
 
 Write a paragraph on your thoughts.
 

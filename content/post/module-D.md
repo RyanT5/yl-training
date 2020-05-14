@@ -76,7 +76,7 @@ Once you have written your list, think about the causes behind each one and writ
 
 ## Managing behaviour
 
-One way ESYLs can provide a positive environment is by creating a Code of Conduct in partnership with their section. A Code of Conduct is not just a list of rules for young people to follow. It can include rules for the leadership team to follow, too. You should consider how the leadership team should respond if a young person is having a bad day.
+One way YLs can provide a positive environment is by creating a Code of Conduct in partnership with their section. A Code of Conduct is not just a list of rules for young people to follow. It can include rules for the leadership team to follow, too. You should consider how the leadership team should respond if a young person is having a bad day.
 
 ## Activity 3
 

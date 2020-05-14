@@ -82,7 +82,7 @@ Read the passage below describing an evening with a Beaver Colony. Match each of
 
 *After the opening, the Beavers play a game. The leader runs the game with the Beaver Scouts making suggestions for actions they can include too. Towards the end of the game, one of the other leaders shows the Lodge Leaders one of the activities they will be doing for the session, making bird feeders by threading cereal and blueberries on a pipe cleaner. It requires a knot at the end and the leader goes through how to do each step.*
 
-*At the end of the game, the Beavers get into their Lodges and start making the bird feeders. The Lodge Leaders help others to make the feeders with the ESYLs and other volunteer leaders checking in on them.*
+*At the end of the game, the Beavers get into their Lodges and start making the bird feeders. The Lodge Leaders help others to make the feeders with the YLs and other volunteer leaders checking in on them.*
 
 *Whilst checking in on how they are getting on, one of the leaders spots a disagreement between two of the Beavers over the last berry. As tempers rise, the leader calls both of the Beavers over to have a chat about what is going on.*
 

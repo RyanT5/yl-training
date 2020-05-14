@@ -36,7 +36,7 @@ If you work with Beavers, you can see their badges [here](https://www.scouts.org
 If you work with Cubs, you can see their badges [here](https://www.scouts.org.uk/cubs/activity-badges/).  
 If you work with Scouts, you can see their badges [here](https://www.scouts.org.uk/scouts/activity-badges/).
 
-A balanced programme should have elements from all three themes in each term of meetings. Reflect on which themes your section has focused on most in the time you've been there and come up with some ideas for what you could do when meetings resume to diversify.
+A balanced programme should have elements from all three themes in each term of meetings. Reflect on which themes your section has focused on most in the time you've been there and come up with some ideas for what you could do to diversify.
 
 ## Youth Shaped Scouting
 
@@ -74,7 +74,7 @@ A Quality Programme is Challenging, Relevant and Rewarding for every young perso
 
 ## Reviewing programme
 
-The scout association have put together a number of tool you can use to review your programme. There are different review tools for each section.
+The Scout Association have put together a number of tools you can use to review your programme. There are different review tools for each section.
 
 If you work with Beavers, you can see their review [here](https://members.scouts.org.uk/documents/6to25/Beaver%20Quality%20Programme%20Checker%20%202018.pdf).  
 If you work with Cubs, you can see their review [here](https://members.scouts.org.uk/documents/6to25/Cubs%20Quality%20Programme%20Checker%202018.pdf).  

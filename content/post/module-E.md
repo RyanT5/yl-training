@@ -17,13 +17,13 @@ This module will take you 45 minutes to an hour to complete.
 
 ## Objectives
 
-The aim of this module is to give ESYLs a good understanding of the importance of games in the section meeting. It will give you an idea of the different types of games that can be played and when to use them to greatest effect.
+The aim of this module is to give YLs a good understanding of the importance of games in the section meeting. It will give you an idea of the different types of games that can be played and when to use them to greatest effect.
 
 By the end of this module, you will have an understanding of:
 
 - the importance of games in the section meeting
 - the need for different types of games and when to play them
-- how explain and run different types of games
+- how to explain and run different types of games
 - how to select games that suit the section’s programme
 
 ## Games in Scouting

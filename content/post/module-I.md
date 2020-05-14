@@ -35,13 +35,13 @@ If feedback was not collected it can result in programmes being run that are of 
 
 ## Ways to gain feedback
 
-There is no right or wrong way to gain feedback from young people. It can be done as a whole group, in Lodges/Sixes/Patrols or by small chats. Young leaders can play an important in gathering feedback as the young people are usually more open to expressing their true feelings on subjects to YLs as they do not see as large an age gap.
+There is no right or wrong way to gain feedback from young people. It can be done as a whole group, in Lodges/Sixes/Patrols or by small chats. Young leaders can play an important role in gathering feedback as the young people are usually more open to expressing their true feelings on subjects to YLs as they do not see as large an age gap.
 
-Gaining feedback can be done somewhat informally by chatting to the kids either on an individual basis or whilst in small groups whilst they take part in activities or games. Simply by asking them if they are enjoying it or what rule changes they would like in-game, count as generating feedback. Having quiet, informal chats are a good way to ensure that the views of the quieter, less confident kids are getting heard.
+Gaining feedback can be done somewhat informally by chatting to the young people either on an individual basis or whilst in small groups whilst they take part in activities or games. Simply by asking them if they are enjoying it or what rule changes they would like in-game, count as generating feedback. Having quiet, informal chats are a good way to ensure that the views of the quieter, less confident young people are getting heard.
 
 More formal log-chews or pack forums can also be run that generally involve the whole section. The best way for these to be run is to make them fun, interactive and embedded into the programme by turning them into activities and games in their own right, such as:
 
-- Playing the four-corner game - giving kids four options and they have to run to the corner that represents the idea that they favour
+- Playing the four-corner game - giving young people four options and they have to run to the corner that represents the idea that they favour
 - Asking each lodge or six to act out their favourite activity of the last term for the others to guess – would work towards their Entertainer badge
 - Running a night that teaches them about democracy and each kid is able to vote in a ballot box for the badge they want to work on in the next term
 
