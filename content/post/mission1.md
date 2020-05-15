@@ -38,7 +38,7 @@ This could be done in a virtual section meeting too!
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 1 page of your logbook. If you don't have a logbook then for each of the three games you ran, please or make notes on:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 1 page of your logbook. If you don't have a logbook then for each of the three games you ran, please make notes on:
 
 - date
 - location
