@@ -2,7 +2,7 @@ baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 10
+paginate        = 12
 #SectionPagesMenu = "main"
 
 [params]
