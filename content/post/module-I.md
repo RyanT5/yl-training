@@ -39,7 +39,7 @@ There is no right or wrong way to gain feedback from young people. It can be don
 
 Gaining feedback can be done somewhat informally by chatting to the young people either on an individual basis or whilst in small groups whilst they take part in activities or games. Simply by asking them if they are enjoying it or what rule changes they would like in-game, count as generating feedback. Having quiet, informal chats are a good way to ensure that the views of the quieter, less confident young people are getting heard.
 
-More formal log-chews or pack forums can also be run that generally involve the whole section. The best way for these to be run is to make them fun, interactive and embedded into the programme by turning them into activities and games in their own right, such as:
+There are many different ways to collect feedback. Log-chews, pack chats or scout forums can also be run that generally involve the whole section or smaller groups. You may know these by other names such as pack forum. The best way for these to be run is to make them fun, interactive and embedded into the programme by turning them into activities and games in their own right, such as:
 
 - Playing the four-corner game - giving young people four options and they have to run to the corner that represents the idea that they favour
 - Asking each lodge or six to act out their favourite activity of the last term for the others to guess – would work towards their Entertainer badge
