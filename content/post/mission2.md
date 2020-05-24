@@ -54,7 +54,9 @@ To show you have completed these tasks we ask you to write a little bit about yo
 - equipment needed
 - self evaluation of how it went
 
-Once you have done this, you can upload the evidence through OSM.
+Once you have done this, you can upload the evidence through OSM. If you don't know your OSM login details, your parents/carers may have them. Otherwise [contact](/contact) the YL training team for support.
+
+Once you are logged in:
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Mission 2" badge in "Challenge Badges"

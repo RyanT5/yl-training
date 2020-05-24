@@ -75,6 +75,10 @@ Try making one yourself so you know what you're doing. Once you think you have t
 
 Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
+If you don't know your OSM login details, your parents/carers may have them. Otherwise [contact](/contact) the YL training team for support.
+
+Once you are logged in:
+
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Modules" badge in "Challenge Badges"
 3. Click "Complete at home" and follow the instructions

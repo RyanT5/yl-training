@@ -50,7 +50,9 @@ To show you have completed these tasks we ask you to write a little bit about yo
 - badges/awards worked towards
 - self evaluation of how it went
 
-Once you have done this for all three, you can upload the evidence through OSM.
+Once you have done this for all three, you can upload the evidence through OSM. If you don't know your OSM login details, your parents/carers may have them. Otherwise [contact](/contact) the YL training team for support.
+
+Once you are logged in:
 
 1. Click on the "Badges" tab on the left side
 2. Click on the "Young Leader Mission 1" badge in "Challenge Badges"
