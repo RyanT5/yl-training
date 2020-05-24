@@ -3,6 +3,7 @@ title: "Module B"
 subtitle: "Taking the lead"
 date: 2020-04-26T16:00:00+01:00
 draft: false
+clickable: true
 image: "mod-b-cover.jpg"
 author: ""
 authorDescription: ""

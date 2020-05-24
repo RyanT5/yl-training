@@ -3,6 +3,7 @@ title: "Mission 1"
 subtitle: "Game"
 date: 2020-04-10T16:00:00+01:00
 draft: false
+clickable: true
 image: "mod-1-cover.jpg"
 author: ""
 authorDescription: ""

@@ -3,6 +3,7 @@ title: "Mission 2"
 subtitle: "Activity"
 date: 2020-04-09T16:00:00+01:00
 draft: false
+clickable: true
 image: "mod-2-cover.jpg"
 author: "Matthew Wilson"
 authorDescription: "AESL-YL Braid"

@@ -3,6 +3,7 @@ title: "Mission 3"
 subtitle: "Programme planning"
 date: 2020-04-08T16:00:00+01:00
 draft: false
+clickable: true
 image: "mod-3-cover.jpg"
 author: ""
 authorDescription: ""

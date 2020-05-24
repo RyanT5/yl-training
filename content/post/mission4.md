@@ -3,6 +3,7 @@ title: "Mission 4"
 subtitle: "Delivery"
 date: 2020-04--7T16:00:00+01:00
 draft: false
+clickable: true
 image: "mod-4-cover.jpg"
 author: "Fraser Liddle"
 authorDescription: "AESL-YL Pentland"

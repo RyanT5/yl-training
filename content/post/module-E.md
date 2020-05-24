@@ -3,6 +3,7 @@ title: "Module E"
 subtitle: "Game on!"
 date: 2020-04-23T16:00:00+01:00
 draft: false
+clickable: true
 image: "mod-e-cover.jpg"
 author: ""
 authorDescription: ""
