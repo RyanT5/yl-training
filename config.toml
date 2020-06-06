@@ -56,7 +56,7 @@ paginate        = 12
 #  weight = 100
 
 [[menu.main]]
-  name = "Feedback"
-  url = "/feedback"
+  name = "Evidence"
+  url = "/evidence"
   weight = 50
   
