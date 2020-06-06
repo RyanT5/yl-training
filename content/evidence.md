@@ -50,7 +50,7 @@ Missions should tell you explicitly what to upload at the bottom of the page for
 
 ## Comments
 
-Once you have uploaded your evidence, a leader will review it and comment below. They will let you know if your work meets all the objectives and any next steps you must take.
+Once you have uploaded your evidence, a leader will review it and comment below your upload on the same OSM page. They will let you know if your work meets all the objectives and any next steps you must take.
 
 ![OSM comments](/osm-comments.png)
 

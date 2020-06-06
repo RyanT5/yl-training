@@ -50,7 +50,7 @@ To show you have completed these tasks we ask you to write a little bit about yo
 - badges/awards worked towards
 - self evaluation of how it went
 
-Once you have done this for all three, you can upload the evidence through OSM. If you don't know your OSM login details, your parents/carers may have them. Otherwise [contact](/contact) the YL training team for support.
+Once you have done this for all three, you can upload the evidence through OSM. If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
 
 Once you are logged in:
 

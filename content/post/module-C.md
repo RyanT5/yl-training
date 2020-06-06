@@ -75,7 +75,7 @@ Try making one yourself so you know what you're doing. Once you think you have t
 
 Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
 
-If you don't know your OSM login details, your parents/carers may have them. Otherwise [contact](/contact) the YL training team for support.
+If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
 
 Once you are logged in:
 
