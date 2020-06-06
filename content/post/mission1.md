@@ -54,8 +54,8 @@ Once you have done this for all three, you can upload the evidence through OSM. 
 
 Once you are logged in:
 
-1. Click on the "Badges" tab on the left side
-2. Click on the "Young Leader Mission 1" badge in "Challenge Badges"
+1. Click on the "Badges" tab on the left side under your name
+2. Click on the "Young Leader Mission 1" badge under "Challenge Badges"
 3. Click "Complete at home" and follow the instructions
 
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
