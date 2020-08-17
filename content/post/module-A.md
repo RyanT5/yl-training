@@ -12,4 +12,4 @@ authorAvatar: ""
 
 ## Sorry, no Module A here
 
-We have been given guidance by Scouts UK not to run Module A online. If you need to do this module don't worry, you will be able to complete it once we return to face to face meetings. You can still continue your training by completing some of the other modules we do have here.
+Module A contains a lot of important information about safeguarding and Scouts UK reccomend doing it face to face if possible. Braid and Pentland will be delivering Module A over zoom which is allowed and we are currently looking into support resources to add to this page. You can still continue your training online by completing some of the other modules we do have here.

@@ -21,8 +21,8 @@ paginate        = 12
   githubName = ""
 
   logo = ""
-  orgName = "Braid & Pentland YL Training Team"
-  orgWebsite = ""
+  orgName = "Website by Ryan Schuller"
+  orgWebsite = "https://ryanschuller.com"
   orgDescription = ""
 
   author = "Ryan Schuller"
