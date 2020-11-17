@@ -7,7 +7,7 @@ paginate        = 12
 
 [params]
   title       = "Young Leader Training"
-  subtitle    = "Modules to do at home"
+  subtitle    = "By Braid & Pentland Districts"
 
   cover       = "background.jpg"
   description = "Modules to do at home"
@@ -50,13 +50,13 @@ paginate        = 12
   url = "/missions"
   weight = 150
 
-#[[menu.main]]
-#  name = "About"
-#  url = "/about"
-#  weight = 100
-
 [[menu.main]]
   name = "Evidence"
   url = "/evidence"
-  weight = 50
+  weight = 100
+
+#[[menu.main]]
+#  name = "Team"
+#  url = "/team"
+#  weight = 50
   
