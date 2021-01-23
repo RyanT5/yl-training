@@ -55,8 +55,8 @@ paginate        = 12
   url = "/evidence"
   weight = 100
 
-#[[menu.main]]
-#  name = "Team"
-#  url = "/team"
-#  weight = 50
+[[menu.main]]
+  name = "Awards"
+  url = "/awards"
+  weight = 50
   
