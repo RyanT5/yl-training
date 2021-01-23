@@ -4,7 +4,7 @@ subtitle: "Top Award"
 date: 2020-04-13T16:00:00+01:00
 draft: false
 clickable: true
-image: "scouts-logo.jpg"
+image: "silver-logo.jpg"
 author: ""
 authorDescription: ""
 authorAvatar: ""
