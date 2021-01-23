@@ -2233,3 +2233,49 @@ body {
   }
 }
 /*# sourceMappingURL=screen.css.map */
+
+/* Team page */
+
+.team-member {
+  /* width: 800px !important; */
+}
+.team-image-container {
+  display: inline-block !important;
+  vertical-align: top !important;
+  margin-right: 30px !important;
+}
+.team-image {
+  width: 160px !important;
+  height: 160px !important;
+  border-radius:100% !important;
+  object-fit: cover !important;
+}
+.team-info-container {
+  display: inline-block !important;
+  max-width: 600px !important;
+  font-size: 18px !important;
+}
+.team-member-name {
+  text-align: left;
+}
+.team-member-position {
+  display: inline !important;
+  font-size: 20px !important;
+  text-align: left;
+}
+.team-member-bio {
+  line-height: 26px !important;
+  margin-top: 8px !important;
+}
+
+@media (max-width: 1020px) {
+  .team-image-container {
+    display: block !important;
+    margin: 0 !important;
+  }
+  .team-member-name, .team-member-position {
+    text-align: center !important;
+    display: block !important;
+    padding: 0 !important;
+  }
+}
