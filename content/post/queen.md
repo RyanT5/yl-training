@@ -13,27 +13,54 @@ tags: ["awards"]
 
 # Introduction
 
+The Queen's Scout Award (QSA) is the top achievement for Explorer Scouts and Scout Network members. Earning it is a huge achievement!
+
+You must be at least 16 to start working towards your Queen's Scout Award and if you haven't achieved [Platinum](/chief-scouts-platinum) or [Diamond](/chief-scouts-diamond) yet then they may be the place to start.
+
 ## What you have to do
+
+There are five main tasks you need to complete to get your Queen's Scout Award. Some of them may sound daunting but remember that this award is meant to be completed over multiple years and you can always ask leaders for help if you get stuck.
+
+#### Membership
+
+There are two key parts to consider here. To be eligible you must both:
+
+- Be aged between 16 and 25 years old. You must start the award after your 16th birthday and complete the award before your 25th birthday.
+
+- Be a member of Explorer Scouts, Young Leaders or Scout Network for at least 18 months and at the time you complete the award.
+
+#### Nights away
+
+You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. This can include nights away counted for the Chief Scout’s [Platinum](/chief-scouts-platinum) and [Diamond](/chief-scouts-diamond) awards but must be different from any nights away used in other sections of QSA such as DofE expeditions.
+
+#### International, community & values (ICV) list
+
+You must complete six activities in total, two from each topic area of the [ICV activities list](https://members.scouts.org.uk/supportresources/3139/queens-scout-award-international-environmental-and-values-iev-list). A minimum of two must be from the QSA ICV list and the others from any of the QSA, or Chief Scout Platinum or Diamond ICV lists.
+
+If you have completed your [Chief Scout’s Platinum Award](/chief-scouts-platinum), you will have already done two activities and will only need to do a further four activities. If you have completed your [Chief Scout’s Diamond Award](/chief-scouts-diamond), you will have already done four activities and will only need to do a further two activities.
+
+#### DofE Gold or equivalent
+
+If you aren't working towards it already, you can find information on DofE Gold [here](/dofe-gold).
+
+The reason we say "or equivalent" is that you technically do not need to have been awarded DofE Gold to finish your Queen's Scout Award but the requirements for this section are identical.
+
+#### A presentation
+
+Once you have completed all of the above tasks in their entirety, you need to present what you did for each of them to an audience. Even though it is the last task you do, this is worth thinking about early on to make sure you capture lots of photos and other evidence of your experience. Try to inspire and motivate others to achieve the award.
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 1 page of your logbook. If you don't have a logbook then for each of the three games you ran, please make notes on:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. If you are not sure about how much or what type of evidence you need for a task you should contact your leader as early as possible. Evidence is crucial to making sure you get recognition.
 
-- date
-- location
-- leadership styles used
-- game type
-- instructions of the game
-- equipment needed
-- badges/awards worked towards
-- self evaluation of how it went
+You also don't need to wait until you are finished every task to start uploading evidence. Uploading as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
 
-Once you have done this for all three, you can upload the evidence through OSM. If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
+If you haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
 
 Once you are logged in:
 
 1. Click on the "Badges" tab on the left side under your name
-2. Click on the "Young Leader Mission 1" badge under "Challenge Badges"
+2. Click on the "Queen Scout Award" badge under "Challenge Badges"
 3. Click "Complete at home" and follow the instructions
 
 <a href="https://www.onlinescoutmanager.co.uk/main.php">
