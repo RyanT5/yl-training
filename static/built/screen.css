@@ -2236,9 +2236,6 @@ body {
 
 /* Team page */
 
-.team-member {
-  /* width: 800px !important; */
-}
 .team-image-container {
   display: inline-block !important;
   vertical-align: top !important;
