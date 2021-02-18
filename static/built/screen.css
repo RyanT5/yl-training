@@ -2276,3 +2276,50 @@ body {
     padding: 0 !important;
   }
 }
+
+/* FAQ */
+.accordion {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto 1rem;
+}
+.accordion-item {
+  background-color: rgb(231, 231, 231);
+  color: #090a0b;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  margin: 2rem 0;
+}
+.accordion-item-header {
+  padding: 1rem 6rem 1rem 2rem;
+  min-height: 3.5rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+.accordion-item-header::after {
+  content: "\002B";
+  font-size: 3rem;
+  font-weight: bold;
+  position: absolute;
+  display: flex;
+  right: 2rem;
+  vertical-align: middle;
+}
+.accordion-item-header.active::after {
+  content: "\2212";
+}
+.accordion-item-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.accordion-item-body-content {
+  padding: 1rem 2rem 1rem 2rem;
+  font-size: 2rem;
+  border-top: 3px solid;
+  border-width: 2px 0 0 0;
+  border-image: linear-gradient(to right, rgba(255,255,255,0.001), rgba(150,150,150,1), rgba(255,255,255,0.001)) 1;
+}
