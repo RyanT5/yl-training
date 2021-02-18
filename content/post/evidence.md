@@ -1,7 +1,14 @@
 ---
-title: "Uploading Evidence"
-subtitle: ""
+title: "Evidence"
+subtitle: "Uploading evidence"
+date: 2020-04-16T16:00:00+01:00
 draft: false
+clickable: true
+image: "queen-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
+tags: ["more"]
 ---
 
 # Introduction

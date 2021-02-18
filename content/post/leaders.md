@@ -1,7 +1,14 @@
 ---
-title: "Information for Leaders"
-subtitle: ""
+title: "Leaders"
+subtitle: "Information for leaders"
+date: 2020-04-15T16:00:00+01:00
 draft: false
+clickable: true
+image: "queen-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
+tags: ["more"]
 ---
 
 This page has been put together by the Website Development Team to provide guidance to Leaders on how we organise and run our online training and hopefully help you organise your own.

@@ -1,5 +1,15 @@
 <article class="post-full post">
     <header class="post-full-header">
+        {{ if .Params.tags }}
+        {{ if eq (index .Params.tags 0) "more" }}
+        <h1 class="post-full-title">{{.Params.subtitle}}</h1>
+        {{ else }}
+        <section class="post-full-meta">
+            <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{.Params.subtitle}}</time>
+        </section>
+        <h1 class="post-full-title">{{.Title}}</h1>
+        {{ end }}
+        {{ else }}
         <section class="post-full-meta">
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{.Params.subtitle}}</time>
             <!-- {{if .Params.tags }}
@@ -7,6 +17,7 @@
                 href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;{{end}}{{end}}{{ end }} -->
         </section>
         <h1 class="post-full-title">{{.Title}}</h1>
+        {{ end }}
     </header>
     {{if .Params.image}}
     <figure class="post-full-image" style="background-image: url({{.Params.image | absURL}})">
