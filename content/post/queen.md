@@ -31,7 +31,7 @@ There are two key parts to consider here. To be eligible you must both:
 
 #### Nights away
 
-You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. This can include nights away counted for the Chief Scout’s [Platinum](/chief-scouts-platinum) and [Diamond](/chief-scouts-diamond) awards but must be different from any nights away used in other sections of QSA such as DofE expeditions.
+You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. This can include nights away counted for the Chief Scout’s [Platinum](/chief-scouts-platinum) and [Diamond](/chief-scouts-diamond) awards but must not include any nights away for DofE expeditions.
 
 #### International, community & values (ICV) list
 

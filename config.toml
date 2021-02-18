@@ -11,7 +11,7 @@ paginate        = 12
 
   cover       = "background.jpg"
   description = "Modules to do at home"
-  metaDescription = "This is a website to support young leaders to continue training during social distancing. The content was put togther by the Braid and Pentland YL Training Team."
+  metaDescription = "Online resources to support Young Leader Training. The content was put together by the Braid and Pentland YL Training Team."
   googleAnalytics = "UA-131397022-1"
   customCSS = []
   RSSLink = ""
@@ -25,11 +25,11 @@ paginate        = 12
   orgWebsite = "https://ryanschuller.com"
   orgDescription = ""
 
-  author = "Ryan Schuller"
+  author = "YL Training Team"
   authorAvatar = "scouts-logo.jpg"
   authorLocation = ""
   authorWebsite = ""
-  authorDescription = "AESL-YL Braid"
+  authorDescription = " "
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -50,13 +50,18 @@ paginate        = 12
   url = "/missions"
   weight = 150
 
-[[menu.main]]
-  name = "Evidence"
-  url = "/evidence"
-  weight = 100
+#[[menu.main]]
+#  name = "Evidence"
+#  weight = 100
+#  url = "/evidence"
 
 [[menu.main]]
-  name = "Awards"
+  name = "Top Awards"
   url = "/awards"
   weight = 50
+
+[[menu.main]]
+  name = "More"
+  url = "/more"
+  weight = 25
   
