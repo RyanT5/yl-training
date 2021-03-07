@@ -21,17 +21,19 @@ You must be at least 16 to start working towards your Queen's Scout Award and if
 
 There are five main tasks you need to complete to get your Queen's Scout Award. Some of them may sound daunting but remember that this award is meant to be completed over multiple years and you can always ask leaders for help if you get stuck.
 
+Requirements can be adapted to suit each young person's abilities. You can read about reasonable adjustments [here](https://members.scouts.org.uk/supportresources/1301/policy-and-approach).
+
 #### Membership
 
 There are two key parts to consider here. To be eligible you must both:
 
 - Be aged between 16 and 25 years old. You must start the award after your 16th birthday and complete the award before your 25th birthday.
 
-- Be a member of Explorer Scouts, Young Leaders or Scout Network for at least 18 months and at the time you complete the award.
+- Be a member of Explorer Scouts, Young Leaders or Scout Network for at least 18 months at the time you complete the award.
 
 #### Nights away
 
-You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. This can include nights away counted for the Chief Scout’s [Platinum](/chief-scouts-platinum) and [Diamond](/chief-scouts-diamond) awards but must not include any nights away for DofE expeditions.
+You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. This can include nights away counted for the Chief Scout’s [Platinum](/chief-scouts-platinum) and [Diamond](/chief-scouts-diamond) awards but must not include any nights away for DofE expeditions or equivalent expeditions for this award.
 
 #### International, community & values (ICV) list
 
@@ -43,7 +45,7 @@ If you have completed your [Chief Scout’s Platinum Award](/chief-scouts-platin
 
 If you aren't working towards it already, you can find information on DofE Gold [here](/dofe-gold).
 
-The reason we say "or equivalent" is that you technically do not need to have been awarded DofE Gold to finish your Queen's Scout Award but the requirements for this section are identical.
+The reason we say "or equivalent" is that you technically do not need to have been awarded DofE Gold to finish your Queen's Scout Award but the requirements for this section are identical. If you are going to put in the effort, we encourage you to get Duke of Edinburgh while you are at it.
 
 #### A presentation
 
