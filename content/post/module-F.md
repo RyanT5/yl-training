@@ -5,9 +5,9 @@ date: 2020-04-22T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-f-cover.jpg"
-author: "Fraser Liddle"
-authorDescription: "AESL-YL Pentland"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction
@@ -52,18 +52,18 @@ Write down what inclusion and diversity mean to you, and why they are important 
 
 To run activities in your section that will help to explore the themes of diversity and inclusion, have a look at the following badges for your section level:
 
-Beavers: 
+Beavers:
 [Faith](https://www.scouts.org.uk/beavers/activity-badges/faith/),
 [International](https://www.scouts.org.uk/beavers/activity-badges/international/),
 [My World](https://www.scouts.org.uk/beavers/awards/my-world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
-Cubs: 
+Cubs:
 [My Faith](https://www.scouts.org.uk/cubs/activity-badges/my-faith/),
 [International](https://www.scouts.org.uk/cubs/activity-badges/international/),
 [World Faiths](https://www.scouts.org.uk/cubs/activity-badges/world-faiths/),
 [Our World](https://www.scouts.org.uk/cubs/awards/our-world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
-Scouts: 
+Scouts:
 [My Faith](https://www.scouts.org.uk/scouts/activity-badges/my-faith/),
 [International](https://www.scouts.org.uk/scouts/activity-badges/international/),
 [World Faiths](https://www.scouts.org.uk/scouts/activity-badges/world-faiths/),
@@ -94,13 +94,13 @@ All these celebrities have some form of additional needs, but they have not prev
 
 To run activities in your section that will help to explore the themes of Disabilities have a look at the following badges:
 
-Beavers: 
+Beavers:
 [Disability Awareness](https://www.scouts.org.uk/beavers/activity-badges/disability-awareness/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
-Cubs: 
+Cubs:
 [Disability Awareness](https://www.scouts.org.uk/cubs/activity-badges/disability-awareness/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
-Scouts: 
+Scouts:
 [World](https://www.scouts.org.uk/scouts/awards/world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)
 
@@ -119,14 +119,14 @@ Additional needs and disabilities should not prevent a young person from being a
 
 Have a look at the following term programme and decide what, if any, adjustments may be needed to overcome the situations below. If you are viewing this on mobile you may need to scroll sideways to see the full table.
 
-| Date        | Activity      | Description           | Venue     | Challenge area   |
-| ------------|---------------|-----------------------|-----------|------------------|
-| 19 Sept     | Harvest festival | Bring in a selection of fruit and <br>vegetables; Colony discusses where <br>food is grown and how it gets to shops | HQ | My World |
-| 26 Sept     | Dinosaur models | Make paper mache models  on wire <br>coat-hanger frames, decorate with <br>poster paint | HQ | My Skills |
-| 3 Oct       | Scavenger hunt | Collect a variety of leaves and twigs <br>from the woods to compare & spot <br>differences, think about seasons | Woods | My Outdoor |
-| 10 Oct      | Puppet storytelling | Create finger puppets and use them <br>to tell well-known stories using <br>puppet theatre | HQ | My Skills |
-| 17 Oct      | Visit a Synagogue | Look at the key features of the <br>building and explore Judaism | Synagogue | My World |
-| 24 Oct      | Making biscuits | Make biscuits and ice them | Kitchen | My Skills |
+| Date    | Activity            | Description                                                                                                         | Venue     | Challenge area |
+| ------- | ------------------- | ------------------------------------------------------------------------------------------------------------------- | --------- | -------------- |
+| 19 Sept | Harvest festival    | Bring in a selection of fruit and <br>vegetables; Colony discusses where <br>food is grown and how it gets to shops | HQ        | My World       |
+| 26 Sept | Dinosaur models     | Make paper mache models on wire <br>coat-hanger frames, decorate with <br>poster paint                              | HQ        | My Skills      |
+| 3 Oct   | Scavenger hunt      | Collect a variety of leaves and twigs <br>from the woods to compare & spot <br>differences, think about seasons     | Woods     | My Outdoor     |
+| 10 Oct  | Puppet storytelling | Create finger puppets and use them <br>to tell well-known stories using <br>puppet theatre                          | HQ        | My Skills      |
+| 17 Oct  | Visit a Synagogue   | Look at the key features of the <br>building and explore Judaism                                                    | Synagogue | My World       |
+| 24 Oct  | Making biscuits     | Make biscuits and ice them                                                                                          | Kitchen   | My Skills      |
 
 Scenarios:
 
@@ -142,7 +142,7 @@ There are some very useful resources to help ensure a Scouting programme is incl
 
 - Deaf Friendly Scouting resource
 - A Million Hand’s resources: Mind, Leonard Cheshire, Guide Dogs
-- Refugee resources 
+- Refugee resources
 - Makaton promise
 - Alternative versions of the promise
 

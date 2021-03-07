@@ -5,9 +5,9 @@ date: 2020-04-09T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-2-cover.jpg"
-author: "Matthew Wilson"
-authorDescription: "AESL-YL Braid"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 tags: ["missions"]
 ---
 
@@ -23,11 +23,11 @@ Plan and run an activity (not a game) with the section you are volunteering with
 
 The activities should include:
 
-- planning and organisation 
+- planning and organisation
 
 - gathering any equipment or materials needed
 
-- delivery 
+- delivery
 
 To complete this mission, you could:
 
@@ -35,7 +35,7 @@ To complete this mission, you could:
 
 - run a segment of the camp programme, such as a pioneering activity or obstacle course, planning the route for a hike, initiating some team challenges, or organising and leading a campfire
 
-- record the ways in which your section’s programme activities could count towards different badges and awards 
+- record the ways in which your section’s programme activities could count towards different badges and awards
 
 - run an activity for the section, relating to one of your own hobbies or interests
 

@@ -5,9 +5,9 @@ date: 2020-04-25T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-c-cover.jpg"
-author: "Matthew Wilson"
-authorDescription: "AESL-YL Braid"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction

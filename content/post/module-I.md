@@ -5,9 +5,9 @@ date: 2020-04-19T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-i-cover.jpg"
-author: "Fraser Liddle"
-authorDescription: "AESL-YL Pentland"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction

@@ -5,9 +5,9 @@ date: 2020-04-18T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-j-cover.jpg"
-author: "Fraser Liddle"
-authorDescription: "AESL-YL Pentland"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction
@@ -22,8 +22,8 @@ This module aims to make you aware of the importance of different communication 
 
 By the end of this module you will have an understanding of:
 
-- how important effective communication is between leaders and young people in their section 
-- adapting your communication style to suit the activity or situation 
+- how important effective communication is between leaders and young people in their section
+- adapting your communication style to suit the activity or situation
 - how tone and body language can affect how you communicate with others
 - how to communicate how the experiences and skills you are gaining through the YL scheme can be used to help you in other Scouting and non-Scouting activities
 
@@ -31,7 +31,7 @@ By the end of this module you will have an understanding of:
 
 Communication is the ability to convey information and share meaning. The aim is to be understood by your audience, to do this effectively you need to be able to understand them as well. You can express your thoughts:
 
-- Verbally – by speaking 
+- Verbally – by speaking
 - Visually – presenting information as an image, map
 - Non-verbally – through your body language, eye contact, gestures
 - In writing – through notes, emails etc
@@ -50,19 +50,19 @@ When running a new activity or teaching a new skill such as making smores it is 
 
 First, you Explain how it’s done.
 
->“I’m going to roast this marshmallow over the fire until it’s golden brown. Then I’m going to sandwich it between two digestives and a piece of chocolate.”
+> “I’m going to roast this marshmallow over the fire until it’s golden brown. Then I’m going to sandwich it between two digestives and a piece of chocolate.”
 
 Then, you Demonstrate the steps you just explained.
 
->Narrate your actions to reinforce the first step.
+> Narrate your actions to reinforce the first step.
 
 Next, you Guide the learners as they practice.
 
->Give the Scouts their own materials and let them try. Offer help when needed, and let the learner repeat until they’ve got it down.
+> Give the Scouts their own materials and let them try. Offer help when needed, and let the learner repeat until they’ve got it down.
 
 Finally, you Enable them to succeed.
 
->This is when you step back, sit down and watch. 
+> This is when you step back, sit down and watch.
 
 ## Tone and body language
 
@@ -77,6 +77,7 @@ When explaining a new activity to your section, what body language should you us
 Write a paragraph on your thoughts.
 
 ## Communicating your skills
+
 Your time as a young leader should be enjoyable and will give you the opportunity to work towards the top Explorer awards. Being a YL should give you the opportunity to develop your leadership, communication and planning skills in order to help to deliver a fun and engaging programme for your section. It should also be a strong starting point if you would like to become an adult leader. These skills and experiences that you gain whilst a young leader are not solely useful for your time in Scouting. Many of the skills will be transferable for day to day life.
 
 The ability to lead, communicate and plan are desirable skills for a candidate to have when they are applying for further education and jobs. The YL scheme is recognised by UCAS and by many employers as it shows that the applicant has desirable communication and leadership skills, is committed, and can effectively work as part of a team.
