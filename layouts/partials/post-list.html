@@ -15,11 +15,20 @@
   <div class="post-card-content">
     <a class="post-card-content-link" href="{{ .Permalink }}">
       <header class="post-card-header">
-        <!-- {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }} #{{$tag}} {{end}}
-        </span>
-        {{ end }} -->
+        {{ if .Params.tags }}
+        {{ if eq (index .Params.tags 0) "awards" }}
+        <h2 class="post-card-title">{{.Params.subtitle}}</h2>
+        <h1 class="post-card-title">{{.Title}}</h1>
+        {{ else if eq (index .Params.tags 0) "more" }}
+        <h1 class="post-card-title">{{.Params.subtitle}}</h1>
+        {{ else }}
         <h2 class="post-card-title">{{.Title}}</h2>
         <h1 class="post-card-title">{{.Params.subtitle}}</h1>
+        {{ end }}
+        {{ else }}
+        <h2 class="post-card-title">{{.Title}}</h2>
+        <h1 class="post-card-title">{{.Params.subtitle}}</h1>
+        {{ end }}
       </header>
     </a>
 

@@ -5,9 +5,9 @@ date: 2020-04-24T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-d-cover.jpg"
-author: "Matthew Wilson"
-authorDescription: "AESL-YL Braid"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction
@@ -104,4 +104,4 @@ Once you are logged in:
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

@@ -5,9 +5,9 @@ date: 2020-04-19T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-i-cover.jpg"
-author: "Fraser Liddle"
-authorDescription: "AESL-YL Pentland"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction
@@ -86,4 +86,4 @@ Once you are logged in:
 
 If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

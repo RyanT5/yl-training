@@ -70,20 +70,20 @@ Pick a term of the year: spring, summer or autumn. Plan a 12-week programme for 
 
 Remember to check badge requirements and ensure your activities tick all the boxes so young people in your section can achieve awards from the programme in a single term if possible.
 
-| Date        | Activity      | Description           | Venue     | Challenge area   |
-| ------------|---------------|-----------------------|-----------|------------------|
-| Week 1 | Museum visit | Visit the museum and learn about <br>a certain period from history. | The museum | History badge |
-| Week 2 |  |  |  |  |
-| Week 3 |  |  |  |  |
-| Week 4 |  |  |  |  |
-| Week 5 |  |  |  |  |
-| Week 6 |  |  |  |  |
-| Week 7 |  |  |  |  |
-| Week 8 |  |  |  |  |
-| Week 9 |  |  |  |  |
-| Week 10 |  |  |  |  |
-| Week 11 |  |  |  |  |
-| Week 12 |  |  |  |  |
+| Date    | Activity     | Description                                                         | Venue      | Challenge area |
+| ------- | ------------ | ------------------------------------------------------------------- | ---------- | -------------- |
+| Week 1  | Museum visit | Visit the museum and learn about <br>a certain period from history. | The museum | History badge  |
+| Week 2  |              |                                                                     |            |                |
+| Week 3  |              |                                                                     |            |                |
+| Week 4  |              |                                                                     |            |                |
+| Week 5  |              |                                                                     |            |                |
+| Week 6  |              |                                                                     |            |                |
+| Week 7  |              |                                                                     |            |                |
+| Week 8  |              |                                                                     |            |                |
+| Week 9  |              |                                                                     |            |                |
+| Week 10 |              |                                                                     |            |                |
+| Week 11 |              |                                                                     |            |                |
+| Week 12 |              |                                                                     |            |                |
 
 ## Conclusion
 
@@ -103,4 +103,4 @@ Once you are logged in:
 
 If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

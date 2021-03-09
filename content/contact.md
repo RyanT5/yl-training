@@ -8,7 +8,6 @@ For general questions and queries you can contact:
 
 [info@youngleadertraining.online](mailto:info@youngleadertraining.online)
 
-If you are in Braid or Pentland district then you can also contact your ESL-YL:
+You can find out more about our team [here](/team).
 
-Allison Gamble: [braid.youngleaders@gmail.com](mailto:braid.youngleaders@gmail.com)  
-Scott Robinson: [yltraining.pentland@gmail.com](mailto:yltraining.pentland@gmail.com)
+We want this site to be as useful as possible to you so your feedback is vital. If you have any ideas for how we can improve or just want to leave a comment then please do get in touch!

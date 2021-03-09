@@ -1,23 +1,30 @@
 ---
 title: "Team"
-subtitle: ""
+subtitle: "Meet the team"
+date: 2020-04-14T16:00:00+01:00
 draft: false
+clickable: true
+image: "yl-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
+tags: ["more"]
 ---
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/scouts-logo.jpg">
+<img class="team-image" src="/scott.jpg">
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Scott Robinson</h3>
 <h5 class="team-member-position">(Co-Project Sponsor)</h5>
-<p class="team-member-bio">"Hi, I’m Scott! I started Scouts when I was 4 Years old in Northern Ireland and went through all the sections! My primary roles are Assistant County Commissioner - Explorers & QSA Coordinator in Belfast County (NI), although I used to be the ESL-YL within Pentland District (South East Scotland). Since being a part of Scouts, I have spent time in various sections both as a youth member, a YL and as a leader. I have always been keen to achieve the top awards within Scouting from achieving the Young Leader Award in 2016, and then to achieving my Queen Scout Award in December 2019. Whether it’s in NI or Scotland, my passion as a Leader comes from working with Explorers to provide them the opportunities to maximise their achievements!"</p>
+<p class="team-member-bio">"Hi, I’m Scott! I started Scouts when I was 4 Years old in Northern Ireland and continued the journey through all the sections! My primary role in Scouts is Assistant County Commissioner for Explorers in Belfast County (NI), although I used to be the ESL-YL within Pentland District (South East Scotland). Since being a part of Scouts, I have spent time in various sections as a youth member, a Young Leader and as a Adult Leader. I have always been keen to achieve the top awards within Scouting from achieving the Young Leader Award in 2016, and then to achieving my Queen Scout Award in December 2019. Whether it’s in NI or Scotland, my passion never changed, as I was always driven by working with Explorers to provide them the opportunities to maximise their achievements!"</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/scouts-logo.jpg">
+<img class="team-image" src="/allison.jpg">
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Allison Gamble</h3>
@@ -28,7 +35,7 @@ draft: false
 
 <div class="team-member">
 <div class="team-image-container" style="display: inline-block; vertical-align: top; margin-right: 30px; margin-bottom: 1.5em;">
-<img class="team-image" src="/scouts-logo.jpg">
+<img class="team-image" src="/ryan.jpg">
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Ryan Schuller</h3>
@@ -39,7 +46,7 @@ draft: false
 
 <div class="team-member">
 <div class="team-image-container" style="display: inline-block; vertical-align: top; margin-right: 30px; margin-bottom: 1.5em;">
-<img class="team-image" src="/scouts-logo.jpg">
+<img class="team-image" src="/fraser.jpg">
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Fraser Liddle</h3>
@@ -50,11 +57,11 @@ draft: false
 
 <div class="team-member">
 <div class="team-image-container" style="display: inline-block; vertical-align: top; margin-right: 30px; margin-bottom: 1.5em;">
-<img class="team-image" src="/scouts-logo.jpg">
+<img class="team-image" src="/matthew.jpg">
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Matthew Wilson</h3>
 <h5 class="team-member-position">(Content Contributor)</h5>
-<p class="team-member-bio">"Hi, I’m Matthew! I’ve been in Scouts since I was 5 Years old, starting in beavers and moving-up through the sections. I am currently an active member within Braid Network and also support the Braid Young Leader Team as an AESL-YL. Since being a part of Scouts, I have had the opportunity to play an active role within the Edinburgh Gang Show as a member of the Stage Crew team, went on 3 international expeditions to Switzerland, Cambodia and Madagascar and finally achieved my Young Leader Award in 2018. Looking back on my time within Scouts, I have the organisation to thank for assisting me in building up my skills which I use frequently on a day-to-day basis and therefore, I felt it is only right that I volunteer and try to support Young leaders through the scheme in a small way!"</p>
+<p class="team-member-bio">"Hi, I’m Matthew! I’ve been in Scouts since I was 6 Years old, starting in beavers and moving-up through the sections. I am currently an active member within Braid Network and also support the Braid Young Leader Team as an AESL-YL. Since being a part of Scouts, I have had the opportunity to play an active role within the Edinburgh Gang Show as a member of the Stage Crew team, went on 3 international expeditions to Switzerland, Cambodia and Madagascar and finally achieved my Young Leader Award in 2018. Looking back on my time within Scouts, I have the organisation to thank for assisting me in building up my skills which I use frequently on a day-to-day basis and therefore, I felt it is only right that I volunteer and try to support Young leaders through the scheme in a small way!"</p>
 </div>
 </div>

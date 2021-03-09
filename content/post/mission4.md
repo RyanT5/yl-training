@@ -5,9 +5,9 @@ date: 2020-04--7T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-4-cover.jpg"
-author: "Fraser Liddle"
-authorDescription: "AESL-YL Pentland"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 tags: ["missions"]
 ---
 
@@ -33,7 +33,7 @@ To complete this mission, you could:
 
 - plan and run a linking event with either the section above or the section below, working with the leaders of the sections above and below to arrange everything
 
-- plan an event, night or activity, ensuring it is appropriate for the age range of the young people, and is well-suited to the venue 
+- plan an event, night or activity, ensuring it is appropriate for the age range of the young people, and is well-suited to the venue
 
 - include members of the section in the running of an evening
 
@@ -43,7 +43,7 @@ To complete this mission, you could:
 
 - plan a camp for the section (under the supervision of a leader with a Nights Away Permit)
 
-- help the young people in the section to explore a particular topic, or to develop some specific skills 
+- help the young people in the section to explore a particular topic, or to develop some specific skills
 
 - any other ideas, subject to agreement with the ESLYL and SL
 
@@ -70,4 +70,4 @@ Once you are logged in:
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
-Thank you for taking the time to complete this at home, stay safe :)
+Thank you for taking the time to complete this at home :)

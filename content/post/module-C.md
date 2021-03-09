@@ -5,9 +5,9 @@ date: 2020-04-25T16:00:00+01:00
 draft: false
 clickable: true
 image: "mod-c-cover.jpg"
-author: "Matthew Wilson"
-authorDescription: "AESL-YL Braid"
-authorAvatar: "scouts-logo.jpg"
+author: ""
+authorDescription: ""
+authorAvatar: ""
 ---
 
 # Introduction
@@ -89,4 +89,4 @@ Once you are logged in:
 
 If you have finished this module then you might be ready to do [Mission 1 and 2](/missions).
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

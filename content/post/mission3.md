@@ -23,7 +23,7 @@ Take the section’s programme ideas to a programme planning meeting.
 
 This mission should include:
 
-- asking the young people in the section to contribute their ideas to the programme 
+- asking the young people in the section to contribute their ideas to the programme
 
 - capturing the ideas and suggestions from the young people and exploring how these could be incorporated into their programme
 
@@ -31,17 +31,17 @@ This mission should include:
 
 To complete this mission, you could:
 
-- attend a section planning meeting 
+- attend a section planning meeting
 
 - plan and run a meeting (e.g. section planning forum or running activities from the YouShape resources)
 
 - decide who should attend a meeting and invite them along
 
-- organise and run a forum for the young people in your section, gathering their ideas and suggestions, and feeding these back to the section leader 
+- organise and run a forum for the young people in your section, gathering their ideas and suggestions, and feeding these back to the section leader
 
-- organise for someone to take notes, minutes or points of action 
+- organise for someone to take notes, minutes or points of action
 
-- plan and run the Sixers’ or Patrol Leaders’ forum, ensuring that the young people in the section understand how they can input their ideas into the section programme 
+- plan and run the Sixers’ or Patrol Leaders’ forum, ensuring that the young people in the section understand how they can input their ideas into the section programme
 
 - any other ideas, subject to agreement with the ESLYL and SL
 
@@ -70,4 +70,4 @@ Once you are logged in:
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
-Thank you for taking the time to complete this at home, stay safe :)
+Thank you for taking the time to complete this at home :)
