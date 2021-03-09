@@ -59,7 +59,7 @@ A Quality Programme is Challenging, Relevant and Rewarding for every young perso
 
 - more opportunities for outdoor and adventurous activities in safe environments
 - gaining confidence by participating in new or less familiar activities and stepping out of their comfort zones
-- all young people regardless of their abilities can enjoy and achieve 
+- all young people regardless of their abilities can enjoy and achieve
 
 ###### What we mean by Relevant:
 
@@ -107,4 +107,4 @@ Once you are logged in:
 
 If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

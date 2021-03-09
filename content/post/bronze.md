@@ -13,33 +13,41 @@ tags: ["awards"]
 
 # Introduction
 
-## What you have to do
+The Duke of Edinburgh’s Award (DofE) is an awards programme which gives young people the chance to make friends, have fun and build confidence in an empowering, exciting and non-competitive learning environment.
 
-## Evidence
+## Key information
 
-To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 1 page of your logbook. If you don't have a logbook then for each of the three games you ran, please make notes on:
+Some things to know about Bronze are:
 
-- date
-- location
-- leadership styles used
-- game type
-- instructions of the game
-- equipment needed
-- badges/awards worked towards
-- self evaluation of how it went
+- It's for ages 14+ or in a school year with a 14+ peer group.
 
-Once you have done this for all three, you can upload the evidence through OSM. If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
+- It takes place over at least six months.
 
-Once you are logged in:
+- You choose one physical activity, one skill and one volunteering; opportunity to focus on: developing two of these for three months and one of these for six months.
 
-1. Click on the "Badges" tab on the left side under your name
-2. Click on the "Young Leader Mission 1" badge under "Challenge Badges"
-3. Click "Complete at home" and follow the instructions
+- You go on an expedition for two days (including an overnight stay) in standard country terrain.
 
-<a href="https://www.onlinescoutmanager.co.uk/main.php">
- <button type="button" class="go-to-osm">Go to OSM</button>
-</a>
+- Your achievements link directly to the [Chief Scout’s Platinum Award](/chief-scouts-platinum).
+
+- All activities must be completed by your 25th birthday.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8GG468LeJI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Key skills
+
+The skills that you develop while completing DofE include:
+
+- Leadership
+- Teamwork
+- Communication
+- Problem solving
+
+## Key contacts
+
+To get started with DofE Bronze you can talk to:
+
+- Your Explorer Leader or District Explorer Scout Commissioner.
+- Your Assistant Regional Commissioner Explorers or Assistant County Commissioner Explorers.
+- Your Regional Advisor for DofE or County Advisor for DofE.
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
-
-Thank you for taking the time to complete this at home, stay safe :)

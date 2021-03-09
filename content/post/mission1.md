@@ -64,4 +64,4 @@ Once you are logged in:
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
-Thank you for taking the time to complete this at home, stay safe :)
+Thank you for taking the time to complete this at home :)

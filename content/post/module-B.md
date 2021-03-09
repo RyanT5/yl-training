@@ -77,21 +77,21 @@ There are many different ways leadership can be expressed. You don't need to hav
 
 Read the passage below describing an evening with a Beaver Colony. Match each of the 8 paragraphs to one of the 5 leadership styles listed above.
 
-*It’s 5:45pm. The Beaver Scouts are arriving and there is a loud buzz of excitement. At school that day, the Beaver Scouts have not been able to go outside to play due to wet weather, so they are full of energy and happy to see each other. ‘Beaver Scouts!’ shouts the leader, ‘It’s time to start. Who is going to lead our opening?’*
+_It’s 5:45pm. The Beaver Scouts are arriving and there is a loud buzz of excitement. At school that day, the Beaver Scouts have not been able to go outside to play due to wet weather, so they are full of energy and happy to see each other. ‘Beaver Scouts!’ shouts the leader, ‘It’s time to start. Who is going to lead our opening?’_
 
-*One of the Beaver Scouts volunteers and steps forward. ‘We are Beavers!’ he projects proudly.*
+_One of the Beaver Scouts volunteers and steps forward. ‘We are Beavers!’ he projects proudly._
 
-*After the opening, the Beavers play a game. The leader runs the game with the Beaver Scouts making suggestions for actions they can include too. Towards the end of the game, one of the other leaders shows the Lodge Leaders one of the activities they will be doing for the session, making bird feeders by threading cereal and blueberries on a pipe cleaner. It requires a knot at the end and the leader goes through how to do each step.*
+_After the opening, the Beavers play a game. The leader runs the game with the Beaver Scouts making suggestions for actions they can include too. Towards the end of the game, one of the other leaders shows the Lodge Leaders one of the activities they will be doing for the session, making bird feeders by threading cereal and blueberries on a pipe cleaner. It requires a knot at the end and the leader goes through how to do each step._
 
-*At the end of the game, the Beavers get into their Lodges and start making the bird feeders. The Lodge Leaders help others to make the feeders with the YLs and other volunteer leaders checking in on them.*
+_At the end of the game, the Beavers get into their Lodges and start making the bird feeders. The Lodge Leaders help others to make the feeders with the YLs and other volunteer leaders checking in on them._
 
-*Whilst checking in on how they are getting on, one of the leaders spots a disagreement between two of the Beavers over the last berry. As tempers rise, the leader calls both of the Beavers over to have a chat about what is going on.*
+_Whilst checking in on how they are getting on, one of the leaders spots a disagreement between two of the Beavers over the last berry. As tempers rise, the leader calls both of the Beavers over to have a chat about what is going on._
 
-*After making the feeders, the Beavers have a discussion about where the best place to hang them would be. They decide on a few locations as a group and venture out in their Lodges to hang them.*
+_After making the feeders, the Beavers have a discussion about where the best place to hang them would be. They decide on a few locations as a group and venture out in their Lodges to hang them._
 
-*‘Stop!’ shouts the Section Leader, ‘Look before you cross the road!’*
+_‘Stop!’ shouts the Section Leader, ‘Look before you cross the road!’_
 
-*Once reaching the trees, the Beavers hang their bird feeders up and head back for the end of the session.*
+_Once reaching the trees, the Beavers hang their bird feeders up and head back for the end of the session._
 
 ## Activity 3
 
@@ -117,4 +117,4 @@ Once you are logged in:
 
 If you have finished this module then you might be ready to do [Mission 1 and 2](/missions).
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

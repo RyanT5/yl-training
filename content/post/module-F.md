@@ -168,4 +168,4 @@ Once you are logged in:
  <button type="button" class="go-to-osm">Go to OSM</button>
 </a>
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

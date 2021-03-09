@@ -86,4 +86,4 @@ Once you are logged in:
 
 If you have finished this module then you might be ready to do [Mission 3](/mission-3).
 
-Thank you for taking the time to do training at home, stay safe :)
+Thank you for taking the time to do training at home :)

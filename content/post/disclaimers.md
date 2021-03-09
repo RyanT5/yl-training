@@ -4,7 +4,7 @@ subtitle: "Disclaimers"
 date: 2020-04-13T16:00:00+01:00
 draft: false
 clickable: true
-image: "queen-logo.jpg"
+image: "yl-logo.jpg"
 author: ""
 authorDescription: ""
 authorAvatar: ""
