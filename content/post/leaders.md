@@ -15,19 +15,19 @@ tags: ["more"]
 
 This page has been put together by the Website Development Team to provide guidance to Leaders on how we organise and run our online training and hopefully help you organise your own.
 
-One of the main questions we get is if this website is only for the use of Braid and Pentland or if others aross the UK can use it too. We not only allow but actively encourage you to use this website to support your own training if you think it would be helpful. Our resources have been fully [endorsed by Scouts UK](https://www.scouts.org.uk/volunteers/running-your-section/running-an-explorer-unit/explorers-covid-19-safe-games-and-activities/) and we intend to keep them up to date into the future.
+One of the main questions we get is if this website is only for the use of Braid and Pentland or if others across the UK can use it too. We not only allow but actively encourage you to use this website to support your own training if you think it would be helpful. Our resources have been fully [endorsed by Scouts UK](https://www.scouts.org.uk/volunteers/running-your-section/running-an-explorer-unit/explorers-covid-19-safe-games-and-activities/) and we intend to keep them up to date into the future.
 
 ### How to use the Young Leader Training website
 
-The Website Development Team have spent time understanding and recognising how the Young Leaders Scheme can be offered via e-learning where possible and ensuring that the importance of the Modules have not been lost through e-learning.
+The Website Development Team have spent time understanding and recognising how the Young Leaders Scheme can be offered via e-learning where possible and ensuring that the importance of the Modules has not been lost through e-learning.
 
-Each Module offers a range of activities, the Website Development Team’s hope was to make the activities individual led, however, there are times when we suggest that a parent, sibling or friend may come in useful. Each Module and Mission has been checked that it meets the requirements through the use of the ‘Prepare to Lead’ book produced by the UK Scouts Association.
+Each Module offers a range of activities and the Website Development Team’s hope was to make the activities individual led, however, there are times when we suggest that the help of a parent, sibling or friend may be useful. Each Module and Mission has been checked that it meets the requirements through the use of the ‘Prepare to Lead’ book produced by the UK Scouts Association.
 
 ### The use of Online Scout Manager (OSM)
 
 We use Online Scout Manager to accept Young Leader’s evidence for Modules or Missions through using the ‘Badges at Home’ function. This will assist the administration of your Young Leader Unit through the below steps laid out.
 
-If you've never used it before, Online Scout Manager allows for all of your administration for your Group, Section or Explorer Unit to be in one place. Allowing for functions like: Group/Section Management of Personal Records, Badge Records, Programme Planning Functions, Parent Portal Options & lately the option for ‘Badges at Home function’.
+If you've never used it before, Online Scout Manager allows for all of your administration for your Group, Section or Explorer Unit to be in one place. Allowing for functions like Group/Section Management of Personal Records, Badge Records, Programme Planning Functions, Parent Portal Options & lately the option for ‘Badges at Home function’.
 
 ![OSM plans](/osm-plans.png)
 
@@ -50,7 +50,7 @@ This page has been developed to provide advice and guidance to Leaders on how Yo
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
-        All members of the Website Development Team currently hold roles associated with The Scout Association (UK), with a focus on the YL Scheme whether that be at District or County Levels. Between us, we have over 20 years experience working with the scheme. Majority of the Team have all been Young Leaders themselves, and have completed a version of the scheme throughout the years!
+        All members of the Website Development Team currently hold roles associated with The Scout Association (UK), with a focus on the YL Scheme whether that be at District or County Levels. Between us, we have over 20 years of experience working with the scheme. The majority of the Team have all been Young Leaders themselves, and have completed a version of the scheme throughout the years!
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@ This page has been developed to provide advice and guidance to Leaders on how Yo
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
-        Yes absolutely! Since launching the website in May 2020, the Website Development Team have witnessed a up to of 500 unique visits per month! Throughout the process of developing the Young Leader Website, we have been in talks with Scouts UK for content and branding permissions. With this, we have an agreement that we will keep this website updated with any changes that come in via the Scouts UK website; for this reason, we would recommend that you just link to our website from your own website or material. However if you wish to take the content then it will be your responsibility to make sure any changes that happen are updated at your end.
+        Yes absolutely! Since launching the website in May 2020, the Website Development Team have witnessed up to 500 unique visits per month! Throughout the process of developing the Young Leader Website, we have been in talks with Scouts UK for content and branding permissions. With this, we have an agreement that we will keep this website updated with any changes that come in via the Scouts UK website; for this reason, we would recommend that you just link to our website from your own website or material. However, if you wish to take the content then it will be your responsibility to make sure any changes that happen are updated at your end.
       </div>
     </div>
   </div>
@@ -110,7 +110,7 @@ This page has been developed to provide advice and guidance to Leaders on how Yo
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
-        To be honest, we are big advocates for OSM and use it for everything! One of the biggest benefits to utilising OSM is that it allows you to track the progress of your Young Leaders across your Group, District, County or Region. It makes your administration so much easier, if there is one record for each Young Person that can be shared with multiple groups/sections/units.
+        To be honest, we are big advocates for OSM and use it for everything! One of the biggest benefits of utilising OSM is that it allows you to track the progress of your Young Leaders across your Group, District, County or Region. It makes your administration so much easier if there is one record for each Young Person that can be shared with multiple groups/sections/units.
       </div>
     </div>
   </div>

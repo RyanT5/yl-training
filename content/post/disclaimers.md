@@ -17,9 +17,9 @@ The Young Leader Website Development Team would like to state their thanks to th
 
 - Founding Contributor: Braid District Scout Council (South-East Scotland)
 - Founding Contributor: Pentland District Scout Council (South-East Scotland)
-- 2nd Year Contributor: Belfast County Scout Council (Scouts NI)
+- Continuing Contributor: Belfast County Scout Council (Scouts NI)
 
-We would also like to state our thanks to the following organisations who have supported us in providing information which contributed towards the Young Leaders Website:
+We would also like to state our thanks to the following organisations who have supported us in providing information that contributed towards the Young Leaders Website:
 
 - Scouts UK (Gilwell, UK) - Prepare to Lead, Branding & Content
 - Belfast County Duke of Edinburgh Centre (Affiliated to Scouts NI)
@@ -30,7 +30,7 @@ The Young Leader Website Development team are pleased to state that all the vide
 
 ### Scouts: Branding and Content Copyright Disclaimer
 
-The Young Leader Website Development team have been in talks with Scouts UK Copyright Team and Programme Content Team to attain permission in order to provide the information on the Young Leader Training Website. If any visitor to the website would like to gain more information on the Modules, they can go to the "Prepare to Lead" book written by the Scouts UK Programme Team.
+The Young Leader Website Development team have been in talks with the Scouts UK Copyright Team and Programme Content Team to attain permission to provide the information on the Young Leader Training Website. If any visitor to the website would like to gain more information on the Modules, they can go to the "Prepare to Lead" book written by the Scouts UK Programme Team.
 
 We can also confirm that we (the Website Development Team) are leaders within Scouts UK, with accredited Membership numbers, and have received background checks through the association.
 
