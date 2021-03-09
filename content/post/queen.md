@@ -37,7 +37,7 @@ You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Net
 
 #### International, community & values (ICV) list
 
-You must complete six activities in total, two from each topic area of the [ICV activities list](https://members.scouts.org.uk/supportresources/3139/queens-scout-award-international-environmental-and-values-iev-list). A minimum of two must be from the QSA ICV list and the others from any of the QSA, or Chief Scout Platinum or Diamond ICV lists.
+You must complete six activities in total, two from each topic area of the <a href="https://www.scouts.org.uk/explorers/queens-scouts-award-icv-list" target="_blank">ICV activities list</a>. A minimum of two must be from the QSA ICV list and the others from any of the QSA, or Chief Scout <a href="https://www.scouts.org.uk/explorers/chief-scout-s-platinum-award-icv-list" target="_blank">Platinum</a> or <a href="https://www.scouts.org.uk/explorers/chief-scout-s-diamond-award-icv-list" target="_blank">Diamond</a> ICV lists.
 
 If you have completed your [Chief Scout’s Platinum Award](/chief-scouts-platinum), you will have already done two activities and will only need to do a further four activities. If you have completed your [Chief Scout’s Diamond Award](/chief-scouts-diamond), you will have already done four activities and will only need to do a further two activities.
 

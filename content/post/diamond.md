@@ -31,7 +31,7 @@ You must complete 12 nights away as an Explorer Scout or member of Scout Network
 
 #### International, community & values (ICV) list
 
-You must complete four activities in total, at least one from each topic area of the [ICV activities list](https://www.scouts.org.uk/explorers/chief-scout-s-diamond-award-icv-list) and then an extra one.
+You must complete four activities in total, at least one from each topic area of the <a href="https://www.scouts.org.uk/explorers/chief-scout-s-diamond-award-icv-list" target="_blank">ICV activities list</a> and then an extra one.
 
 If you have completed your [Chief Scout’s Platinum Award](/chief-scouts-platinum), you will have already done two activities and will only need to do a further two activities.
 

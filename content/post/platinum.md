@@ -31,7 +31,7 @@ You must complete 6 nights away as an Explorer Scout or member of Scout Network,
 
 #### International, community & values (ICV) list
 
-You must complete two activities from the [ICV activities list](https://www.scouts.org.uk/explorers/chief-scout-s-platinum-award-icv-list). You can pick any two but we recommend doing two from different catagories. Speak to your leader if have any questions.
+You must complete two activities from the <a href="https://www.scouts.org.uk/explorers/chief-scout-s-platinum-award-icv-list" target="_blank">ICV activities list</a>. You can pick any two but we recommend doing two from different catagories. Speak to your leader if have any questions.
 
 #### DofE Bronze or equivalent
 
