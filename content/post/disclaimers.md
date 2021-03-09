@@ -22,7 +22,7 @@ The Young Leader Website Development Team would like to state their thanks to th
 We would also like to state our thanks to the following organisations who have supported us in providing information which contributed towards the Young Leaders Website:
 
 - Scouts UK (Gilwell, UK) - Prepare to Lead, Branding & Content
-- 62nd Belfast Duke of Edinburgh Centre (Affiliated to Scouts NI)
+- Belfast County Duke of Edinburgh Centre (Affiliated to Scouts NI)
 
 ### Copyright Disclaimer - Module Videos
 

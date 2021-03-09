@@ -18,7 +18,7 @@ tags: ["more"]
 <div class="team-info-container">
 <h3 class="team-member-name">Scott Robinson</h3>
 <h5 class="team-member-position">(Co-Project Sponsor)</h5>
-<p class="team-member-bio">"Hi, I’m Scott! I started Scouts when I was 4 Years old in Northern Ireland and went through all the sections! My primary roles are Assistant County Commissioner - Explorers & QSA Coordinator in Belfast County (NI), although I used to be the ESL-YL within Pentland District (South East Scotland). Since being a part of Scouts, I have spent time in various sections both as a youth member, a YL and as a leader. I have always been keen to achieve the top awards within Scouting from achieving the Young Leader Award in 2016, and then to achieving my Queen Scout Award in December 2019. Whether it’s in NI or Scotland, my passion as a Leader comes from working with Explorers to provide them the opportunities to maximise their achievements!"</p>
+<p class="team-member-bio">"Hi, I’m Scott! I started Scouts when I was 4 Years old in Northern Ireland and continued the journey through all the sections! My primary role in Scouts is Assistant County Commissioner for Explorers in Belfast County (NI), although I used to be the ESL-YL within Pentland District (South East Scotland). Since being a part of Scouts, I have spent time in various sections as a youth member, a Young Leader and as a Adult Leader. I have always been keen to achieve the top awards within Scouting from achieving the Young Leader Award in 2016, and then to achieving my Queen Scout Award in December 2019. Whether it’s in NI or Scotland, my passion never changed, as I was always driven by working with Explorers to provide them the opportunities to maximise their achievements!"</p>
 </div>
 </div>
 

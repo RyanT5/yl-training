@@ -7,11 +7,11 @@ paginate        = 12
 
 [params]
   title       = "Young Leader Training"
-  subtitle    = "By Braid & Pentland Districts"
+  subtitle    = "By Braid, Pentland & Belfast Scouts"
 
   cover       = "background.jpg"
   description = "Modules to do at home"
-  metaDescription = "Online resources to support Young Leader Training. The content was put together by the Braid and Pentland YL Training Team."
+  metaDescription = "Online resources to support Young Leader Training. The content was put together by the Braid and Pentland YL Training Team, with support from Belfast County."
   googleAnalytics = "UA-131397022-1"
   customCSS = []
   RSSLink = ""

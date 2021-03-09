@@ -4,7 +4,7 @@ This is a website to support young leaders to continue training during social di
 
 [https://youngleadertraining.online](https://youngleadertraining.online)
 
-This content was put togther by the Braid and Pentland YL Training Team.
+This content was put togther by the Braid and Pentland YL Training Team, with support from Belfast County.
 
 It has also been [endorsed by Scouts UK](https://www.scouts.org.uk/volunteers/running-your-section/running-an-explorer-unit/explorers-covid-19-safe-games-and-activities/).
 
