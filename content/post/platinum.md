@@ -45,6 +45,8 @@ To show you have completed these tasks we ask you to write a little bit about yo
 
 You also don’t need to wait until you are finished every task to start uploading evidence. Uploading as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
 
+You can download [this logbook](https://cms.scouts.org.uk/media/12404/chief-scout-platinum-award-log-book-june-2019.pdf) as a guide.
+
 If you haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
 
 Once you are logged in:
