@@ -40,7 +40,7 @@ tags: ["more"]
 <div class="team-info-container">
 <h3 class="team-member-name">Ryan Schuller</h3>
 <h5 class="team-member-position">(Website Developer)</h5>
-<p class="team-member-bio">"Hi I'm Ryan! I started scouting in Cubs in 2009 and have risen up through the sections before taking on multiple adult roles. I am an AESL YL, a Cub leader and the youngest member of the district executive in Braid district. I completed my Explorer Belt and Young Leader Belt in 2017 and am now working towards my Queen Scout Award. In 2020, I was also awarded the May Burrows award given to leaders who go above and beyond for scouting for biulding this website and helping transition training online during lockdown."</p>
+<p class="team-member-bio">"Hi, I'm Ryan! I started scouting in Cubs in 2009 and have risen up through the sections before taking on multiple leadership roles. I am an AESL-YL, a Cub leader and the youngest member of the district executive in Braid district. I completed my Explorer Belt and Young Leader Belt in 2017 and am now working towards my Queen Scout Award. In 2020, I was also awarded the May Burrows Award, given to leaders who go above and beyond for scouting for building this website and helping transition training online during lockdown."</p>
 </div>
 </div>
 
