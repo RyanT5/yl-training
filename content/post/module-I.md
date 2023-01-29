@@ -60,6 +60,7 @@ The young people are usually much more imaginative than the leader team and may 
 
 Using the methodology above, come up with ways to make these ideas happen:
 
+- Squirrels want to swim with sharks
 - Beavers want to climb Everest
 - Cubs want to camp in the rainforest
 - Scouts want to go skydiving

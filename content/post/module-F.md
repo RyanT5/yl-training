@@ -52,6 +52,10 @@ Write down what inclusion and diversity mean to you, and why they are important 
 
 To run activities in your section that will help to explore the themes of diversity and inclusion, have a look at the following badges for your section level:
 
+Squirrels:
+[Let’s Celebrate](https://www.scouts.org.uk/squirrels/activity-badges/let-s-celebrate/),
+[Local Superhero](https://www.scouts.org.uk/squirrels/activity-badges/local-superhero/),
+[Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
 Beavers:
 [Faith](https://www.scouts.org.uk/beavers/activity-badges/faith/),
 [International](https://www.scouts.org.uk/beavers/activity-badges/international/),
@@ -61,13 +65,14 @@ Cubs:
 [My Faith](https://www.scouts.org.uk/cubs/activity-badges/my-faith/),
 [International](https://www.scouts.org.uk/cubs/activity-badges/international/),
 [World Faiths](https://www.scouts.org.uk/cubs/activity-badges/world-faiths/),
-[Our World](https://www.scouts.org.uk/cubs/awards/our-world/),
+[Our World Challenge](https://www.scouts.org.uk/cubs/awards/our-world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
 Scouts:
 [My Faith](https://www.scouts.org.uk/scouts/activity-badges/my-faith/),
 [International](https://www.scouts.org.uk/scouts/activity-badges/international/),
 [World Faiths](https://www.scouts.org.uk/scouts/activity-badges/world-faiths/),
-[World](https://www.scouts.org.uk/scouts/awards/world/),
+[World Challenge](https://www.scouts.org.uk/scouts/awards/world/),
+[Global Issues](https://www.scouts.org.uk/scouts/activity-badges/global-issues/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)
 
 ## Additional Needs and Disabilities
@@ -94,6 +99,9 @@ All these celebrities have some form of additional needs, but they have not prev
 
 To run activities in your section that will help to explore the themes of Disabilities have a look at the following badges:
 
+Squirrels:
+[Local Superhero](https://www.scouts.org.uk/squirrels/activity-badges/local-superhero/),
+[Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
 Beavers:
 [Disability Awareness](https://www.scouts.org.uk/beavers/activity-badges/disability-awareness/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
@@ -101,7 +109,7 @@ Cubs:
 [Disability Awareness](https://www.scouts.org.uk/cubs/activity-badges/disability-awareness/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)  
 Scouts:
-[World](https://www.scouts.org.uk/scouts/awards/world/),
+[World Challenge](https://www.scouts.org.uk/scouts/awards/world/),
 [Community Impact](https://www.scouts.org.uk/staged-badges/community-impact/)
 
 ## Additional Needs and Inclusion

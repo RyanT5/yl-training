@@ -33,9 +33,10 @@ By the end of this module, you will have an understanding of:
 
 Look through the list of activity badges for your section and divide them into three columns on a piece of paper. Your columns should cover the three themes of ‘outdoor and adventure’, ‘world’ and ‘skills’.
 
-If you work with Beavers, you can see their badges [here](https://www.scouts.org.uk/beavers/activity-badges/).  
-If you work with Cubs, you can see their badges [here](https://www.scouts.org.uk/cubs/activity-badges/).  
-If you work with Scouts, you can see their badges [here](https://www.scouts.org.uk/scouts/activity-badges/).
+If you work with Squirrels, you can see [Squirrel badges here](https://www.scouts.org.uk/squirrels/activity-badges/).  
+If you work with Beavers, you can see [Beaver badges here](https://www.scouts.org.uk/beavers/activity-badges/).  
+If you work with Cubs, you can see [Cub badges here](https://www.scouts.org.uk/cubs/activity-badges/).  
+If you work with Scouts, you can see [Scout badges here](https://www.scouts.org.uk/scouts/activity-badges/).
 
 A balanced programme should have elements from all three themes in each term of meetings. Reflect on which themes your section has focused on most in the time you've been there and come up with some ideas for what you could do to diversify.
 
@@ -77,9 +78,10 @@ A Quality Programme is Challenging, Relevant and Rewarding for every young perso
 
 The Scout Association have put together a number of tools you can use to review your programme. There are different review tools for each section.
 
-If you work with Beavers, you can see their review [here](https://members.scouts.org.uk/documents/6to25/Beaver%20Quality%20Programme%20Checker%20%202018.pdf).  
-If you work with Cubs, you can see their review [here](https://members.scouts.org.uk/documents/6to25/Cubs%20Quality%20Programme%20Checker%202018.pdf).  
-If you work with Scouts, you can see their review [here](https://members.scouts.org.uk/documents/Quality%20Programme%20Checker_Scouts.pdf).
+If you work with Squirrels, there is not an official review yet but you can use the Cubs review below.  
+If you work with Beavers, you can [download the Beavers review here](/pdf/Beaver%20Quality%20Programme%20Checker.pdf).  
+If you work with Cubs, you can [download the Cubs review here](/pdf/Cubs%20Quality%20Programme%20Checker.pdf).  
+If you work with Scouts, you can [download the Scouts review here](/pdf/Scouts%20Quality%20Programme%20Checker.pdf).
 
 ## Activity 3
 

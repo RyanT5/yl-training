@@ -56,9 +56,10 @@ If you can come up with an original game that is age-appropriate to your section
 
 Another important aspect of Scouting is working towards badges. In this activity, you need to look through the list of badges for your section and either match them with games in your list from Activity 1 or come up with other possible games that would fit. Do this for at least 10 badges.
 
-If you work with Beavers, you can see their badges [here](https://www.scouts.org.uk/beavers/activity-badges/).  
-If you work with Cubs, you can see their badges [here](https://www.scouts.org.uk/cubs/activity-badges/).  
-If you work with Scouts, you can see their badges [here](https://www.scouts.org.uk/scouts/activity-badges/).
+If you work with Squirrels, you can see [Squirrel badges here](https://www.scouts.org.uk/squirrels/activity-badges/).  
+If you work with Beavers, you can see [Beaver badges here](https://www.scouts.org.uk/beavers/activity-badges/).  
+If you work with Cubs, you can see [Cub badges here](https://www.scouts.org.uk/cubs/activity-badges/).  
+If you work with Scouts, you can see [Scout badges here](https://www.scouts.org.uk/scouts/activity-badges/).
 
 ## Preparation
 

@@ -49,9 +49,10 @@ Think about the 5 Ps strategy. Prior Planning Prevents Poor Performance.
 
 Plan out an evening meeting for your section. Pick a badge to do some work towards and some games to play. Remember to also plan in time for flag break and cleaning up at the end.
 
-If you work with Beavers, you can see their badges [here](https://www.scouts.org.uk/beavers/activity-badges/).  
-If you work with Cubs, you can see their badges [here](https://www.scouts.org.uk/cubs/activity-badges/).  
-If you work with Scouts, you can see their badges [here](https://www.scouts.org.uk/scouts/activity-badges/).
+If you work with Squirrels, you can see [Squirrel badges here](https://www.scouts.org.uk/squirrels/activity-badges/).  
+If you work with Beavers, you can see [Beaver badges here](https://www.scouts.org.uk/beavers/activity-badges/).  
+If you work with Cubs, you can see [Cub badges here](https://www.scouts.org.uk/cubs/activity-badges/).  
+If you work with Scouts, you can see [Scout badges here](https://www.scouts.org.uk/scouts/activity-badges/).
 
 ## Planning a termly programme
 
