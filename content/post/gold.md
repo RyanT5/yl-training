@@ -31,7 +31,7 @@ The Duke of Edinburgh’s Award (DofE) is an awards programme which gives young 
 
 - You embark on a residential project for five days (including four overnight stays).
 
-- Your achievements link directly to the [Queen Scout's Award](/queen-scouts-award).
+- Your achievements link directly to the [King's Scout Award](/kings-scout-award).
 
 - All activities must be completed by your 25th birthday.
 
