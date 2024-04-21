@@ -1,7 +1,7 @@
 ---
 title: "King's Scout Award"
 subtitle: "Top Award"
-date: 2024-04-21
+date: 2020-04-16
 draft: false
 clickable: true
 image: "king-logo.jpg"
