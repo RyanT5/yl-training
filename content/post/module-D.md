@@ -73,7 +73,7 @@ One way YLs can provide a positive environment is by creating a Code of Conduct 
 
 Watch the video below about code of conduct:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C4si6n36n30?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1CDvelac7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From watching that video, create a code of conduct for the young leaders scheme.
 
