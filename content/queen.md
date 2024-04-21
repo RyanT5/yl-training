@@ -1,15 +1,11 @@
 ---
 title: "Queen Scout's Award"
 subtitle: "Top Award"
-date: 2020-04-16T16:00:00+01:00
-draft: true
-clickable: true
+draft: false
 image: "queen-logo.jpg"
-author: ""
-authorDescription: ""
-authorAvatar: ""
-tags: ["awards"]
 ---
+
+This page is being kept for reference but the Queen's Scout Award has been replaced by the [King's Scout Award](/kings-scout-award).
 
 # Introduction
 
