@@ -53,7 +53,7 @@ Watch this video on the sign language alphabet:
 
 Now watch the this video on the sign language alphabet:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/clPTV1wq8Jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgIvXXdwjvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now have a look at the picture below of the sign language alphabet:
 
