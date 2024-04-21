@@ -55,13 +55,8 @@ tags: ["more"]
 </div>
 </div>
 
-<div class="team-member">
-<div class="team-image-container" style="display: inline-block; vertical-align: top; margin-right: 30px; margin-bottom: 1.5em;">
-<img class="team-image" src="/matthew.jpg">
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Matthew Wilson</h3>
-<h5 class="team-member-position">(Content Contributor)</h5>
-<p class="team-member-bio">"Hi, I’m Matthew! I’ve been in Scouts since I was 6 Years old, starting in beavers and moving-up through the sections. I am currently an active member within Braid Network and also support the Braid Young Leader Team as an AESL-YL. Since being a part of Scouts, I have had the opportunity to play an active role within the Edinburgh Gang Show as a member of the Stage Crew team, went on 3 international expeditions to Switzerland, Cambodia and Madagascar and finally achieved my Young Leader Award in 2018. Looking back on my time within Scouts, I have the organisation to thank for assisting me in building up my skills which I use frequently on a day-to-day basis and therefore, I felt it is only right that I volunteer and try to support Young leaders through the scheme in a small way!"</p>
-</div>
-</div>
+## Past contributors
+
+Thank you to everyone who has helped with the development of this website, including:
+
+Matthew Wilson
