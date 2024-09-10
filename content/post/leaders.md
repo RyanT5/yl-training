@@ -25,7 +25,7 @@ Each Module offers a range of activities and the Website Development Team’s ho
 
 ### The use of Online Scout Manager (OSM)
 
-We use Online Scout Manager to accept Young Leader’s evidence for Modules or Missions through using the ‘Badges at Home’ function. This will assist the administration of your Young Leader Unit through the below steps laid out.
+You can use Online Scout Manager to accept Young Leader’s evidence for Modules or Missions through using the ‘Badges at Home’ function. This will assist the administration of your Young Leader Unit through the below steps laid out.
 
 If you've never used it before, Online Scout Manager allows for all of your administration for your Group, Section or Explorer Unit to be in one place. Allowing for functions like Group/Section Management of Personal Records, Badge Records, Programme Planning Functions, Parent Portal Options & lately the option for ‘Badges at Home function’.
 
