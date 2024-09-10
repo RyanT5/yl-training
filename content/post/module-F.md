@@ -162,7 +162,7 @@ If you ever have any questions about specific situations relating to additional 
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there or email it to your leader. You need to complete this to be signed off.
 
 If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
 

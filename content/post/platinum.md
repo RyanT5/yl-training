@@ -41,7 +41,7 @@ The reason we say "or equivalent" is that you technically do not need to have be
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. If you are not sure about how much or what type of evidence you need for a task you should contact your leader as early as possible. Evidence is crucial to making sure you get recognition.
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM or email it to your leader. If you are not sure about how much or what type of evidence you need for a task you should contact your leader as early as possible. Evidence is crucial to making sure you get recognition.
 
 You also don’t need to wait until you are finished every task to start uploading evidence. Uploading as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
 
