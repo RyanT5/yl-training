@@ -49,7 +49,7 @@ This could be done in a virtual meeting too!
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 2 page of your logbook. If you don't have a logbook then please write an answer to each of the following questions:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM or email it to your leader. Fill in the Mission 2 page of your logbook. If you don't have a logbook then please write an answer to each of the following questions:
 
 - What did you do to gather ideas from the young people? What did you want to achieve?
 - How did you turn those ideas into action and feedback the information?

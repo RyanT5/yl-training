@@ -45,7 +45,7 @@ This could be done in a virtual section meeting too!
 
 ## Evidence
 
-To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM. Fill in the Mission 2 page of your logbook. If you don't have a logbook then for the activity you choose, please make notes on:
+To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM or email it to your leader. Fill in the Mission 2 page of your logbook. If you don't have a logbook then for the activity you choose, please make notes on:
 
 - date
 - location
