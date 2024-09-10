@@ -13,7 +13,7 @@ tags: ["more"]
 
 # Introduction
 
-We use Online Scout Manager (OSM) to track your progress with your training. This page explains the process for how you access OSM and upload your evidence when you have completed a module or mission. Click the button below to open OSM in another tab and follow along with the following instructions.
+You can use Online Scout Manager (OSM) to track your progress with your training. This page explains the process for how you access OSM and upload your evidence when you have completed a module or mission. Click the button below to open OSM in another tab and follow along with the following instructions.
 
 <a target="_blank" href="https://www.onlinescoutmanager.co.uk/main.php">
  <button type="button" class="go-to-osm">Go to OSM</button>
