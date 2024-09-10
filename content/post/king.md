@@ -35,7 +35,7 @@ There are two key parts to consider here. To be eligible you must both:
 
 #### Nights away
 
-You must complete 18 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. This can include nights away counted for the Chief Scout’s [Platinum](/chief-scouts-platinum) and [Diamond](/chief-scouts-diamond) awards but must not include any nights away for DofE expeditions or equivalent expeditions for this award.
+You must complete 24 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. Any nights away can count for this section, whether used in another part of this award, or to count towards the Chief Scout Platinum or Chief Scout Diamond Award.
 
 #### International, community & values (ICV) list
 
@@ -59,7 +59,7 @@ To show you have completed these tasks we ask you to write a little bit about yo
 
 You also don't need to wait until you are finished every task to start uploading evidence. Uploading as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
 
-You can download [this logbook](https://prod-cms.scouts.org.uk/media/11902/KSA-log-book-and-completion-form-august-2019.pdf) as a guide.
+You can download [this logbook](https://cms.scouts.org.uk/media/fdzlt5le/ksa-logbook-completion-form-using-post-010624-ksa-criteria-updated-190724.docx) as a guide.
 
 If you haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
 
