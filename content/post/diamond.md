@@ -27,7 +27,7 @@ You must have been a member of Explorer Scouts or Scout Network or both for at l
 
 #### Nights away
 
-You must complete 12 nights away as an Explorer Scout or member of Scout Network, of which 8 must be camping. This can include nights away counted for the [Chief Scout’s Platinum Award](/chief-scouts-platinum) but must not include any nights away for DofE expeditions or equivalent expeditions for this award.
+You must complete 12 nights away as an Explorer Scout, Young Leader or member of Scout Network, of which 8 must be camping. This can include nights away counted for the [Chief Scout’s Platinum Award](/chief-scouts-platinum) but must not include any nights away for DofE expeditions or equivalent expeditions for this award.
 
 #### International, community & values (ICV) list
 
