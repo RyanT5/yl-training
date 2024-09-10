@@ -17,8 +17,6 @@ The King's Scout Award (KSA) is the top achievement for Explorer Scouts and Scou
 
 You must be at least 16 to start working towards your King's Scout Award and if you haven't achieved [Platinum](/chief-scouts-platinum) or [Diamond](/chief-scouts-diamond) yet then they may be the place to start.
 
-It replaces the [Queen's Scout Award](/queen-scouts-award).
-
 ## What you have to do
 
 There are five main tasks you need to complete to get your King's Scout Award. Some of them may sound daunting but remember that this award is meant to be completed over multiple years and you can always ask leaders for help if you get stuck.
