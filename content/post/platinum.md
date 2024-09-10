@@ -27,7 +27,7 @@ You must have been a member of Explorer Scouts for at least 6 months at the time
 
 #### Nights away
 
-You must complete 6 nights away as an Explorer Scout or member of Scout Network, of which 4 must be camping. This must not include any nights away for DofE expeditions or equivalent expeditions for this award.
+You must complete 6 nights away as an Explorer Scout or a Young Leader, of which 4 must be camping. This must not include any nights away for DofE expeditions or equivalent expeditions for this award.
 
 #### International, community & values (ICV) list
 
