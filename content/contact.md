@@ -6,7 +6,7 @@ draft: false
 
 For general questions and queries you can contact:
 
-[info@youngleadertraining.online](mailto:info@youngleadertraining.online)
+[youngleaders@braidscouts.org.uk](mailto:youngleaders@braidscouts.org.uk)
 
 You can find out more about our team [here](/team).
 

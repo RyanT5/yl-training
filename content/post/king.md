@@ -21,7 +21,11 @@ You must be at least 16 to start working towards your King's Scout Award and if 
 
 There are five main tasks you need to complete to get your King's Scout Award. Some of them may sound daunting but remember that this award is meant to be completed over multiple years and you can always ask leaders for help if you get stuck.
 
-Requirements can be adapted to suit each young person's abilities. You can read about reasonable adjustments [here](https://members.scouts.org.uk/supportresources/1301/policy-and-approach).
+Requirements can be adapted to suit each young person's abilities. You can read about [reasonable adjustments](https://www.scouts.org.uk/volunteers/equity-diversity-and-inclusion/supporting-people-with-additional-needs/agreeing-adjustments/adjustments-to-badges-and-awards/) on the Scouts UK website.
+
+#### Logbook
+
+Please download the [KSA logbook](https://prod-cms.scouts.org.uk/media/ajspdi5q/ksa-logbook-completion-form-using-post-010624-ksa-criteria-updated-150125-2.pdf) to help you keep track of your accomplishments for this award. Remember, it is your responsibility to keep this up to date.
 
 #### Membership
 
@@ -55,21 +59,9 @@ Once you have completed all of the above tasks in their entirety, you need to pr
 
 To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM or email it to your leader. If you are not sure about how much or what type of evidence you need for a task you should contact your leader as early as possible. Evidence is crucial to making sure you get recognition.
 
-You also don't need to wait until you are finished every task to start uploading evidence. Uploading as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
+You also don’t need to wait until you are finished every task to start submitting evidence. Submitting as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
 
-You can download [this logbook](https://cms.scouts.org.uk/media/fdzlt5le/ksa-logbook-completion-form-using-post-010624-ksa-criteria-updated-190724.docx) as a guide.
-
-If you haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
-
-Once you are logged in:
-
-1. Click on the "Badges" tab on the left side under your name
-2. Click on the "King's Scout Award" badge under "Challenge Badges"
-3. Click "Complete at home" and follow the instructions
-
-<a href="https://www.onlinescoutmanager.co.uk/main.php">
- <button type="button" class="go-to-osm">Go to OSM</button>
-</a>
+Please contact your Team Lead for Young Leaders or your 14-24 Team Lead for your District who will be able to advise if you can upload the evidence to OSM or if they would prefer the evidence a different way.
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 

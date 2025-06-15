@@ -19,7 +19,11 @@ The Chief Scout's Platinum Award is one of the top awards for Explorers. It's a 
 
 There are four main tasks you need to complete to get your Chief Scout's Platinum Award. Some of them may sound daunting but remember that this award is meant to be completed over several months and you can always ask leaders for help if you get stuck.
 
-Requirements can be adapted to suit each young person's abilities. You can read about reasonable adjustments [here](https://members.scouts.org.uk/supportresources/1301/policy-and-approach).
+Requirements can be adapted to suit each young person's abilities. You can read about [reasonable adjustments](https://www.scouts.org.uk/volunteers/equity-diversity-and-inclusion/supporting-people-with-additional-needs/agreeing-adjustments/adjustments-to-badges-and-awards/) on the Scouts UK website.
+
+#### Logbook
+
+Please download the [Platinum logbook](https://prod-cms.scouts.org.uk/media/dwda534t/chief-scout-platinum-award-log-book-march-2025.pdf) to help you keep track of your accomplishments for this award. Remember, it is your responsibility to keep this up to date.
 
 #### Membership
 
@@ -27,7 +31,7 @@ You must have been a member of Explorer Scouts for at least 6 months at the time
 
 #### Nights away
 
-You must complete 6 nights away as an Explorer Scout or a Young Leader, of which 4 must be camping. This must not include any nights away for DofE expeditions or equivalent expeditions for this award.
+You must complete 8 nights away as an Explorer Scout or a Young Leader, of which 4 must be camping. Any Scouting nights away can count for this section, including those used in another part of this award.
 
 #### International, community & values (ICV) list
 
@@ -43,21 +47,9 @@ The reason we say "or equivalent" is that you technically do not need to have be
 
 To show you have completed these tasks we ask you to write a little bit about your experience and upload it to OSM or email it to your leader. If you are not sure about how much or what type of evidence you need for a task you should contact your leader as early as possible. Evidence is crucial to making sure you get recognition.
 
-You also don’t need to wait until you are finished every task to start uploading evidence. Uploading as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
+You also don’t need to wait until you are finished every task to start submitting evidence. Submitting as soon as you are finished each task or subtask means we can ensure your work meets the requirements.
 
-You can download [this logbook](https://cms.scouts.org.uk/media/12404/chief-scout-platinum-award-log-book-june-2019.pdf) as a guide.
-
-If you haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
-
-Once you are logged in:
-
-1. Click on the "Badges" tab on the left side under your name
-2. Click on the "Platinum" badge under "Challenge Badges"
-3. Click "Complete at home" and follow the instructions
-
-<a href="https://www.onlinescoutmanager.co.uk/main.php">
- <button type="button" class="go-to-osm">Go to OSM</button>
-</a>
+Please contact your Team Lead for Young Leaders or your 14-24 Team Lead for your District who will be able to advise if you can upload the evidence to OSM or if they would prefer the evidence a different way.
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 
