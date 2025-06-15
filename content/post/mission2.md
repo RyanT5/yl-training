@@ -54,17 +54,9 @@ To show you have completed these tasks we ask you to write a little bit about yo
 - equipment needed
 - self evaluation of how it went
 
-Once you have done this, you can upload the evidence through OSM. If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
+Once you have done this, you can submit the evidence to your leader for review.
 
-Once you are logged in:
-
-1. Click on the "Badges" tab on the left side under your name
-2. Click on the "Young Leader Mission 2" badge under "Challenge Badges"
-3. Click "Complete at home" and follow the instructions
-
-<a href="https://www.onlinescoutmanager.co.uk/main.php">
- <button type="button" class="go-to-osm">Go to OSM</button>
-</a>
+Please contact your Team Lead for Young Leaders or your 14-24 Team Lead for your District who will be able to advise if you can upload the evidence to OSM or if they would prefer the evidence a different way.
 
 If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions.
 

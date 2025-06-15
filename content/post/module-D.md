@@ -90,18 +90,8 @@ If you ever feel out of your depth when dealing with behaviour then seek the hel
 
 ## Conclusion
 
-Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then go to OSM to upload your evidence for each activity there or email it to your leader. You need to complete this to be signed off.
+Look back at the objectives at the top of this page and see if you think you are confident with each of them. If there are any parts you are unsure of then you can [contact](/contact) the YL training team with any questions. If you do think you know everything then you can submit the evidence to your leader for review.
 
-If haven't used OSM before, check out our step-by-step guide by clicking [here](/evidence).
-
-Once you are logged in:
-
-1. Click on the "Badges" tab on the left side under your name
-2. Click on the "Young Leader Modules" badge under "Challenge Badges"
-3. Click "Complete at home" and follow the instructions
-
-<a href="https://www.onlinescoutmanager.co.uk/main.php">
- <button type="button" class="go-to-osm">Go to OSM</button>
-</a>
+Please contact your Team Lead for Young Leaders or your 14-24 Team Lead for your District who will be able to advise if you can upload the evidence to OSM or if they would prefer the evidence a different way.
 
 Thank you for taking the time to do training at home :)

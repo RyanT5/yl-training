@@ -37,7 +37,7 @@ There are two key parts to consider here. To be eligible you must both:
 
 #### Nights away
 
-You must complete 24 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. Any nights away can count for this section, whether used in another part of this award, or to count towards the Chief Scout Platinum or Chief Scout Diamond Award.
+You must complete 24 nights away as an Explorer Scout, Young Leader or Scout Network member, of which 12 must be camping. Any Scouting nights away can count for this section, whether used in another part of this award, or to count towards the Chief Scout Platinum or Chief Scout Diamond Award.
 
 #### International, community & values (ICV) list
 
